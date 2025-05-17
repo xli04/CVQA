@@ -8,14 +8,14 @@ structing and utilizing visual and textual prompts independently without complem
 understanding. Injecting such modality-isolated prompts amplifies the existing imbalance by providing the model with additional information from its already-preferred modality, diminishing the ability to integrate cross-modal representations. As a result, performance degrades as the model increasingly relies on one modality.
 
 
-<div align="center"><img src="code_fig1.pdf" width="400px" alt="Figure 1"></div>
+<div align="center"><img src="code_fig1.jpg" width="400px" alt="Figure 1"></div>
 
 To avoid cross-modal prompt isolation and disrupt the error accumulation of modality imbalance in the two stages, i.e., prompt query and injection, we propose **MM-Prompt**, as shown in Fig. 1. MM-Prompt consists of two key components, including cross-modal prompt query and cross-modal prompt recovery.
 First, the **Cross-Modal Prompt Query** module enhances prompt selection by mixing information from the opposite modality into each query prior to retrieval, enabling more balanced and context-aware selection.
 Second, the **Cross-Modal Prompt Recovery** module jointly masks and reconstructs prompts through progressively enriched cross-modal interactions, effectively embedding fused information into the prompt space before the injection stage. Alignment losses are applied to prevent representational drift. Together, these components promote balanced modality utilization, enhance accuracy, and reduce forgetting.
 
 ### 2. Method
-![Figure 2](fig2.pdf)
+![Figure 2](fig2.jpg)
 
 As illustrated in Fig.2, our MM-Prompt model differs fundamentally from existing CVQA approaches by introducing explicit cross-modal interactions at multiple stages. The overall workflow, shown in Fig.~\ref{framework}, consists of two complementary mechanisms that work together to maintain balanced modality representation. First, input features from vision and question modalities undergo Cross-Modal Prompts Query. In this stage, each modality's features attend to the opposite modality before generating query vectors. These enriched queries are then used to select relevant prompts. Then, a mask will be applied on the weighted sum of these selected prompts to create explicit pathways for cross-modal prompts recovery. The masked prompts then first process through intra-modal recovery to establish basic modality-specific patterns while introducing light cross-modal influence, followed by cross-modal that further integrates information across modalities through attention mechanisms and selective enhancement. The result is a set of recovered prompts that maintain balanced representations from both modalities. 
 
