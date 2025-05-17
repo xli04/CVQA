@@ -7,8 +7,7 @@ Most prompt-based CVQA methods adopt a cross-modal prompt isolation approach, co
 structing and utilizing visual and textual prompts independently without complementary knowledge
 understanding. Injecting such modality-isolated prompts amplifies the existing imbalance by providing the model with additional information from its already-preferred modality, diminishing the ability to integrate cross-modal representations. As a result, performance degrades as the model increasingly relies on one modality.
 
-
-<div align="center"><img src="code_fig1.jpg" width="400px" alt="Figure 1"></div>
+![code_fig1](code_fig1.jpg)
 
 To avoid cross-modal prompt isolation and disrupt the error accumulation of modality imbalance in the two stages, i.e., prompt query and injection, we propose **MM-Prompt**, as shown in Fig. 1. MM-Prompt consists of two key components, including cross-modal prompt query and cross-modal prompt recovery.
 First, the **Cross-Modal Prompt Query** module enhances prompt selection by mixing information from the opposite modality into each query prior to retrieval, enabling more balanced and context-aware selection.
