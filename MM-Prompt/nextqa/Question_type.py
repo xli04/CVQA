@@ -20,16 +20,6 @@ cate = {"cat": 1, "stingray": 2, "cellphone": 3, "stop sign": 24, "panda": 4, "c
  "sheep/goat": 66, "horse": 67, "child": 68, "electric_fan": 46, "crocodile": 69, "bread": 70, "dog": 71, "bear": 72, "surfboard": 73, "kangaroo": 74, "tiger": 75, "leopard": 76, "table": 77, "penguin": 78, "snake": 79, "vegetables": 80, "traffic_light": 53}
 
 
-
-
-All_V2 = {'G0': [50, 60, 15, 32, 79, 27, 53, 20, 36, 28, 24, 80, 41, 33, 18, 10], \
-'G1': [54, 5, 57, 49, 69, 62, 7, 1, 14, 35, 56, 66, 58, 51, 46, 6]}
-# , \
-# 'G2': [59, 61, 74, 37, 47, 34, 19, 72, 75, 23, 63, 40, 67, 21, 73, 29],\
-# 'G3': [22, 2, 48, 64, 68, 9, 65, 26, 45, 12, 8, 76, 55, 4, 77, 44],\
-# 'G4': [78, 17, 52, 11, 30, 13, 38, 70, 25, 3, 43, 42, 39, 16, 71, 31]}
-
-
 import random
 def random_dic(dicts):
     dict_key_ls = list(dicts.keys())
