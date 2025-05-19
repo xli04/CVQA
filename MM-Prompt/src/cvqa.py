@@ -226,7 +226,7 @@ class Trainer(TrainerBase):
                     # Calculate memory allocation per task
                     each_memory = int(self.M / task_idx)
                     # Load data for previous task
-                    data_info_path = ('/root/autodl-tmp/datasets/vqa/Partition_Q_reverse/karpathy_train_task_' + f'{self.task_list[task_idx - 1]}.json')
+                    data_info_path = ('/root/autodl-tmp/datasets/vqa/Partition_Q/karpathy_train_task_' + f'{self.task_list[task_idx - 1]}.json')
                     with open(data_info_path) as f:
                         data_info_dicts = json.load(f)
 

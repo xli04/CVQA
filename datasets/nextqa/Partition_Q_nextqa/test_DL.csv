@@ -1,0 +1,483 @@
+Unnamed: 0,Unnamed: 0.1,video,frame_count,width,height,question,answer,qid,type,bigCate
+14,14,3751613141,840,640,360,where is this happening,restaurant,9,DL,71
+29,29,6237913346,1219,640,360,where is the video taken,living room,1,DL,68
+57,57,5503178247,950,640,480,where is this place,bedroom,7,DL,68
+77,77,12078592673,1292,640,1138,where is this activity being held,preparing pizza,9,DL,68
+107,107,2583300764,604,640,480,where are the people at,by the water,7,DL,58
+134,134,4171080632,2127,640,480,where are the people gathered for the party,event room,6,DL,55
+151,151,4124400853,1692,640,360,where is this video taken,bedroom,7,DL,38
+152,152,3727471969,1035,640,480,where is this video taken,fast food place,8,DL,38
+168,168,3739867574,2160,640,480,where is this video taken,stage,4,DL,65
+174,174,4768807796,1020,640,480,where are the people hanging out,living room,10,DL,68
+185,185,3223951946,474,640,480,where are the two people dancing,living room,6,DL,58
+198,198,2401256231,1033,500,375,where is this place,home,5,DL,1
+203,203,8032967534,2190,640,480,where is this video taken,stage,9,DL,62
+252,252,2881352518,1999,640,480,where is the lady hanging out,home,2,DL,16
+260,260,8996671420,485,640,360,where is this happening,underpass,5,DL,39
+299,299,5728022703,346,640,480,where is this happening,outdoors,11,DL,23
+326,326,4405746537,2697,640,480,where is this happening,living room,8,DL,68
+342,342,3485555298,855,640,360,where is this happening,a park,5,DL,50
+345,345,11944072804,511,640,360,where is the location,airport,9,DL,13
+347,347,6975125131,349,640,360,where is this video taken,desert,4,DL,52
+390,390,5650793185,929,480,360,where is this happening,playground,9,DL,38
+416,416,3842392593,668,320,240,where are the man and the dog hanging out,living room,5,DL,71
+425,425,6004462245,2474,360,480,where is this video taken,living room,6,DL,68
+435,435,2935869403,687,500,375,where was this video taken,road,7,DL,71
+441,441,7530907250,677,272,480,where is this video taken,park,9,DL,38
+457,457,5441902119,823,640,480,where were the boys at,room with shelves,3,DL,68
+482,482,8993709862,848,640,360,where are the people hanging out,outdoors,6,DL,11
+483,483,4650731570,2025,640,480,where is this video taken,living room,5,DL,71
+485,485,8696216243,890,640,360,where could this be happening,living room,11,DL,68
+486,486,4968352174,1116,640,480,where is the man,on water,5,DL,73
+502,502,6310337188,2160,640,1138,where is the baby sitting,on the bed,8,DL,38
+506,506,4696626424,1621,480,360,where is the baby hanging out,house,7,DL,38
+554,554,3524009829,1198,640,480,where are the people hanging out,by the thams,8,DL,68
+563,563,13516621384,404,640,360,where is this video taken,forest,4,DL,58
+564,564,3186134497,701,640,480,where is the man in jacket,road side,1,DL,52
+592,592,3988313151,580,320,240,where is the cake kept,on the table,11,DL,77
+605,605,4997304873,477,640,480,where are the two men at,mountain,4,DL,58
+608,608,3672431760,765,640,480,where are they,park,9,DL,71
+611,611,3692009167,1116,640,480,where is this place,home,7,DL,27
+622,622,2502947328,900,640,480,where is this video taken,on a car,7,DL,3
+624,624,7149839527,1186,640,360,where are the people at,room,7,DL,68
+632,632,6813372954,1412,640,360,where is this video taken,plantation,5,DL,58
+674,674,4178472052,369,640,480,where is this happening,near a water body,8,DL,77
+688,688,5736690354,2697,480,360,where is the man riding the horse,garden,4,DL,67
+689,689,4979527132,773,384,288,where are the people hanging out,living room,9,DL,68
+693,693,2703151976,1351,500,375,where did this happen,stage,9,DL,58
+704,704,5602364659,1803,640,480,where are the dad and baby playing,in the playing area,8,DL,27
+708,708,6577341237,1016,640,1138,where is this video taken,cafe,3,DL,68
+748,748,3540508501,1632,640,480,where are the people hanging out,field,7,DL,77
+780,780,4967866673,1044,640,480,where is this,pond,4,DL,73
+815,815,3844880628,519,640,360,where are the people hanging out,playground,7,DL,7
+860,860,7742310064,626,640,360,where is this video taken,beach,4,DL,33
+876,876,4615227462,465,640,480,where is the man,toilet,3,DL,18
+909,909,10376859826,1145,640,360,where are the people hanging out,living room,5,DL,27
+944,944,7824310242,337,640,360,where is this video taken,hospital ward,6,DL,38
+965,965,4152556613,1890,320,240,where are the dogs resting,bed,9,DL,71
+982,982,10843059584,2511,640,360,where is this happening,presentation hall,5,DL,62
+984,984,8316861265,1863,640,430,where is the girl dancing,stage,4,DL,62
+995,995,5624778109,612,272,480,where is this video taken,beach,3,DL,71
+999,999,5499561130,2697,640,480,where is this video taken,living room,3,DL,27
+1018,1018,6224708185,2084,640,360,where are the animals hanging out,outdoors,5,DL,60
+1026,1026,5607028175,481,640,360,where was the trampoline placed,outdoors,6,DL,68
+1045,1045,3261112327,962,640,480,where is this happening,garden,7,DL,36
+1051,1051,2758300055,1473,640,480,where are the people hanging out,swimming pool,3,DL,68
+1053,1053,5412696114,741,640,480,where are the children hanging out,living room,8,DL,27
+1073,1073,5564473671,1346,640,360,where is this activity taking place,archery practice,8,DL,23
+1099,1099,5826069843,612,640,360,where is the boy standing,in the boat,5,DL,61
+1139,1139,4463062358,526,640,480,where is the baby lying on,bed,7,DL,38
+1144,1144,2440996945,1952,500,375,where was this video taken,bedroom,9,DL,68
+1197,1197,5219491835,705,640,480,where is the baby rested,baby trolley,7,DL,38
+1214,1214,6095248978,2250,640,360,where is this happening,living room,11,DL,68
+1239,1239,7530953680,1320,640,360,where is this place,port,6,DL,61
+1252,1252,5297426137,1227,640,360,where is this video taken,room,0,DL,68
+1253,1253,10682218035,985,640,360,where is this happening,house,7,DL,71
+1284,1284,3167311763,1087,448,254,where is this happening,bowling alley,9,DL,49
+1314,1314,9598464461,1180,640,360,where is this place,zoo,9,DL,66
+1331,1331,2814476910,711,500,375,where is this video taken,playground,6,DL,68
+1333,1333,2430157408,1068,320,240,where are the people hanging out,living room,8,DL,68
+1355,1355,8283116453,1116,640,360,where do you think the musicians are performing at,living room,7,DL,58
+1383,1383,4129080039,777,640,360,where are the birds being kept,garden,6,DL,33
+1407,1407,4834895241,489,640,480,where is this video taken,indoor track,6,DL,52
+1423,1423,6625133293,407,640,360,where is this video taken,mart,7,DL,58
+1517,1517,2407193002,1637,320,240,where are the boys hanging out,living room,9,DL,27
+1545,1545,2855649995,812,640,480,where is the girl carrying out the activity,kitchen,9,DL,68
+1606,1606,4178047134,641,640,480,where is this video taken,hospital ward,8,DL,38
+1621,1621,5807908661,1665,640,360,where are the people hanging out,outdoors cafe,5,DL,38
+1623,1623,6706220611,2697,640,360,how many babies were there,one,3,DL,38
+1640,1640,5159941010,1373,640,360,where is this video taken,room,0,DL,71
+1648,1648,6071633426,2674,640,360,where is this video taken,living room,6,DL,25
+1737,1737,2925959064,1233,500,375,where is this place,river,1,DL,9
+1745,1745,3561135916,1397,640,360,where is this place,dining room,7,DL,68
+1751,1751,4863455612,732,640,360,where could this be happening,lab,8,DL,77
+1756,1756,3747186945,1179,640,480,where is this happening,indoors,10,DL,27
+1776,1776,3228132498,1167,640,480,where is this place,wedding hall,7,DL,68
+1802,1802,3704238156,917,640,480,where is this video taken,living room,8,DL,27
+1823,1823,7526364640,2697,640,480,where is this video taken,classroom,9,DL,68
+1834,1834,3079724515,874,320,240,where is this video taken,playground,7,DL,68
+1892,1892,3747890905,1152,640,360,where are the people hanging out,living room,9,DL,38
+1894,1894,2657975235,350,640,480,where is this place,a hut,8,DL,16
+1905,1905,3599210242,415,640,480,where is the man in orange riding his bicycle at,mountain trail,2,DL,50
+1936,1936,5864047618,562,640,360,where is this happening,field,9,DL,67
+1984,1984,4684348177,401,640,480,where is this happening,living room,5,DL,27
+2020,2020,4924794333,1058,640,360,where does the man hold onto the baby,put baby on lap,5,DL,59
+2033,2033,5477272417,990,640,362,where are the people at,forest,7,DL,58
+2100,2100,10747331063,667,640,360,where is this happening,playing baseball,9,DL,49
+2102,2102,8227806049,792,640,480,where does the man kiss the baby on,head,6,DL,38
+2136,2136,2776910060,1241,500,375,where is this video taken,living room,4,DL,38
+2138,2138,8340480194,488,640,360,where is this,home,6,DL,27
+2170,2170,8686938112,534,640,360,where is this video taken,training track,2,DL,52
+2178,2178,10483027904,828,512,288,where are the children and woman at,in house,4,DL,68
+2181,2181,4672625782,1635,640,360,where is this happening,river,6,DL,61
+2187,2187,2756607919,944,320,240,where is this happening,living room,6,DL,38
+2197,2197,7354297342,370,640,474,where is the guy at,room,5,DL,59
+2222,2222,5995224103,1123,640,360,where is this place,living room,5,DL,68
+2245,2245,4854593577,1116,640,480,where is this happening,in the sea,6,DL,61
+2275,2275,7011018565,1994,640,360,where are the dogs hanging out,field,10,DL,71
+2279,2279,3357799819,1342,320,240,where is this happening,bedroom,8,DL,38
+2303,2303,3885216493,894,480,360,where did this occur,house,8,DL,62
+2323,2323,4924794333,1058,640,360,where does the baby rest her hands,on the keyboard,7,DL,59
+2325,2325,5415466680,2697,640,360,where is this video taken,stage,5,DL,58
+2343,2343,4444103383,1131,640,360,where are these people performing,bar,1,DL,65
+2385,2385,4979601057,1155,640,360,where does the boy hanging out,living room,6,DL,68
+2412,2412,8870296245,521,640,480,where are the animals present,pigsty,7,DL,34
+2417,2417,6279934011,1817,640,360,where is this video taken,living room,9,DL,68
+2461,2461,5221530771,1056,640,360,where are the women,stage,0,DL,16
+2470,2470,2794873229,1437,500,375,where is this place,a room,6,DL,1
+2485,2485,2700856270,819,640,480,where is the baby hanging out,living room,1,DL,38
+2491,2491,6824389173,533,568,320,where is this place,living room,6,DL,27
+2525,2525,5849071543,1102,640,360,where are the people cycling on,road,5,DL,50
+2531,2531,7527437500,368,640,480,where were the children at,beach,11,DL,68
+2576,2576,4400018396,648,640,480,where is this video taken,in house,4,DL,77
+2590,2590,3546634491,1632,640,360,where is this happening,classroom,9,DL,16
+2608,2608,2406887888,2696,500,375,where is this happening,living room,9,DL,68
+2626,2626,4094248027,750,640,480,where is this video taken,living room,9,DL,27
+2643,2643,4000445275,2697,640,360,where is the baby sitting as she eats her food,baby chair,6,DL,38
+2644,2644,6901974982,1826,640,426,where is the video taken,house,4,DL,68
+2670,2670,5306556049,2232,640,480,where did the boy with checkered shirt put the toys that he picked up from the floor,in the container,0,DL,68
+2673,2673,3329878386,722,640,360,where could this be happening,living room,8,DL,1
+2688,2688,3258993991,1380,640,480,where was the dog s food contained,bowl,8,DL,71
+2758,2758,4641631235,1605,640,360,where is this video taken,stage,6,DL,59
+2765,2765,2405004230,1710,640,480,where is this video taken,carnival,7,DL,16
+2792,2792,2924847675,528,320,240,where are both of them at,stage,8,DL,62
+2793,2793,8208916209,768,640,362,where is this happening,house floor,7,DL,1
+2797,2797,2402178262,1285,320,240,where are they dancing,indoor,2,DL,58
+2816,2816,2437115175,892,640,480,where is the activity being carried out,bathroom,11,DL,71
+2828,2828,3480618846,526,640,480,where are the people hanging out,forest,4,DL,68
+2917,2917,4892549531,1767,640,1138,where are the people practising the play,stage,6,DL,16
+2918,2918,3632915314,2043,320,240,where are the people hanging out,jungle,6,DL,52
+2923,2923,3751105478,300,320,240,where is this happening,morning,6,DL,7
+2934,2934,6706220611,2697,640,360,where is the pillow kept,on the floor,9,DL,38
+2976,2976,2770243170,1162,640,480,where is the baby at,bedroom,5,DL,25
+3069,3069,8328369894,1776,640,360,where is this,home,8,DL,58
+3092,3092,7846636954,733,640,360,where is this video taken,living room,3,DL,27
+3112,3112,3740849151,643,640,480,where is the cat sitting,on the chair,8,DL,68
+3116,3116,9289576155,1196,640,360,where are the cats at,carpark,5,DL,1
+3127,3127,4474292288,1199,640,360,where is this happening,swimming pool,9,DL,38
+3129,3129,5972972222,2697,640,360,where is this happening,backyard,8,DL,68
+3148,3148,5275599750,2060,640,480,where was the video taken,arcade,2,DL,62
+3149,3149,5547902371,480,640,480,where is this video taken,outdoors,7,DL,52
+3159,3159,4484729539,688,640,480,where is the baby playing,living room,7,DL,68
+3173,3173,4607629530,1387,640,360,where is this place,indoors,4,DL,39
+3197,3197,8568772570,651,640,360,where is this video taken,near the lake,5,DL,58
+3209,3209,3512311005,2697,640,480,where is this video taken,theatre,9,DL,65
+3217,3217,6292691001,549,640,360,where are the people hanging out,in house,8,DL,16
+3221,3221,8235000713,1813,640,480,where were the people sitting,table,9,DL,77
+3227,3227,4784858772,809,640,480,where could this be happening,on stage,10,DL,58
+3256,3256,3186134497,701,640,480,where is this happening,road,7,DL,52
+3280,3280,6134687264,431,640,480,where does the child crawl to at the end of the video,out of the room,4,DL,68
+3283,3283,3081360150,1780,640,480,where is the snake present,on the road,9,DL,79
+3295,3295,6317093992,912,640,360,where could this be happening,workplace,7,DL,16
+3323,3323,8575896129,2056,640,384,where are the people hanging out,near a field,9,DL,68
+3326,3326,3121452683,831,640,480,where are they dancing,front yard,8,DL,58
+3328,3328,12298809926,623,640,360,where is this occurring,golf court,10,DL,15
+3338,3338,10734790773,1126,640,360,where is this happening,house,8,DL,68
+3368,3368,6134687264,431,640,480,where are the people hanging out,home,9,DL,68
+3423,3423,2932961019,717,500,375,where is this happening,living room,5,DL,1
+3480,3480,6699885319,361,640,360,where is the man at,carpark,4,DL,52
+3484,3484,4430422083,904,640,480,where is this video taken,farm,9,DL,68
+3493,3493,9197405751,544,480,360,where is this happening,home,7,DL,68
+3510,3510,3753830144,544,640,480,where is this place,classroom,3,DL,68
+3511,3511,2774457371,2038,320,240,where is this video taken,at a sink,5,DL,1
+3519,3519,2532161712,793,640,480,where is this happening,bus,6,DL,7
+3520,3520,10355341433,822,512,288,where are the boys hanging out,by the window,3,DL,68
+3559,3559,6080431642,306,640,360,where is this video taken,pool,8,DL,68
+3566,3566,7238677454,375,640,480,where is this video taken,swimming pool,8,DL,38
+3578,3578,3070014782,450,640,480,where is this place,living room,9,DL,68
+3587,3587,3453301125,628,640,480,where is this happening,road shoulder,9,DL,50
+3620,3620,3300272359,1202,320,240,where is this video taken,living room,6,DL,38
+3621,3621,5912473393,1245,640,480,where are the people performing,on stage,8,DL,65
+3645,3645,6091663460,460,640,360,where is the man playing tennis,tennis courts,4,DL,10
+3649,3649,6045316181,1015,640,480,where is this video taken,bathroom,7,DL,68
+3661,3661,6246539463,426,640,480,where is this happening,bird feeder,6,DL,33
+3683,3683,7691046836,1460,640,480,where is this video taken,on the plane,7,DL,68
+3710,3710,4980235136,660,640,480,where is this place,bus terminal,7,DL,30
+3727,3727,8491542201,331,640,360,where is this video taken,field,4,DL,71
+3729,3729,4032969415,2697,640,360,where are the men singing,street,8,DL,68
+3730,3730,5509677964,389,640,362,where is this video taken,swimming pool,3,DL,38
+3746,3746,4458449046,538,640,480,where is this place,golf course,8,DL,52
+3761,3761,8132052550,1345,640,1138,where is this likely to be occurring,living room,7,DL,68
+3778,3778,8031010690,526,640,360,where is this place,living room,2,DL,25
+3791,3791,3776883679,1426,640,480,where is this place,park,7,DL,50
+3813,3813,5847098868,1178,568,320,where is this video taken,living room,2,DL,16
+3834,3834,2906386126,1275,320,240,where are they performing,home,5,DL,65
+3843,3843,4039239344,360,640,428,where is this video taken,pond,7,DL,9
+3866,3866,5306556049,2232,640,480,where is this video taken,home,10,DL,68
+3890,3890,3204890216,759,640,480,where are the boy and the dog hanging out,carpark,7,DL,68
+3893,3893,8140301969,2143,640,480,where is this video taken,living room,5,DL,68
+3958,3958,6181099606,782,640,360,where are the woman and the baby hanging out,dining table,9,DL,77
+4004,4004,3889087646,744,640,360,where is this video taken,kitchen,5,DL,77
+4008,4008,6579160577,1096,640,480,where is this video taken,living room,12,DL,59
+4017,4017,6801869574,600,640,480,where are the people hanging out,backyard,7,DL,68
+4039,4039,4830393131,952,640,480,where are the boy man and dog at,backyard,6,DL,16
+4041,4041,9320572138,783,640,360,where are the people hanging out,backyard,9,DL,68
+4061,4061,4084841090,433,640,480,where are the people playing,pool,9,DL,71
+4071,4071,5396384503,345,640,360,where are the ducks swimming at,river,6,DL,9
+4091,4091,7530844076,1196,640,360,where are the dog and the person hanging out,living room,4,DL,71
+4118,4118,3381602382,1757,320,240,where were the people at,dining,4,DL,77
+4144,4144,4400018396,648,640,480,where is the keyboard placed,on table,3,DL,77
+4160,4160,3740849151,643,640,480,where are the lady and the baby playing,on the floor,9,DL,68
+4169,4169,2969688375,505,320,240,where are the people hanging out,house corridor,6,DL,68
+4195,4195,6706220611,2697,640,360,where is the baby laying,pillow,8,DL,38
+4222,4222,3571539122,415,320,240,where are the people performing,on stage,7,DL,58
+4232,4232,3035546739,677,500,375,where are the people cycling,hill,0,DL,50
+4328,4328,3222849599,1108,640,360,where is the baby hanging out,in a house,7,DL,38
+4344,4344,5953341392,1624,640,1138,where is the baby sitting,baby seat,5,DL,25
+4347,4347,6068969659,2697,480,640,where is this video taken,mountain top,6,DL,16
+4365,4365,3336623732,1278,640,480,where is this place,house,7,DL,68
+4437,4437,9297698436,2803,640,1138,where could this be happening,home,9,DL,38
+4457,4457,3425409935,2594,640,360,where is this happening,pavement,10,DL,52
+4515,4515,3134608824,1019,384,288,where is this video taken,kitchen area,5,DL,31
+4555,4555,2822110402,918,500,375,where is this video taken,sea,7,DL,58
+4648,4648,7174056178,901,272,480,where are the people hanging out,living room,6,DL,27
+4677,4677,4823383982,1743,640,362,where are the people hanging out,living room,5,DL,68
+4678,4678,6199427603,911,640,360,where is this happening,piano room,5,DL,59
+4683,4683,3523006445,1071,640,480,where is this video taken,road,8,DL,52
+4696,4696,6419015349,599,640,480,where is the video taken,house,3,DL,27
+4746,4746,13166998645,1183,512,288,where is this place,living room,9,DL,68
+4753,4753,5460127828,653,640,480,where is this video taken,along the road,9,DL,68
+4759,4759,2996876993,720,640,480,where are the people hanging out,outdoor porch,9,DL,38
+4772,4772,10488004303,2493,640,480,where is this happening,room,11,DL,68
+4793,4793,5454409762,337,640,360,where is the video taken,snow jungle,5,DL,50
+4795,4795,5815171094,354,640,480,where are the two men working,field,4,DL,11
+4826,4826,5624778109,612,272,480,where is the dog sitting,man s lap,6,DL,71
+4829,4829,4740545679,360,640,480,where is this happening,skate park,7,DL,41
+4853,4853,13482206704,861,640,360,where is the girl looking at throughout the video,towards the cake,4,DL,77
+4869,4869,11276537014,1106,640,360,where is the activity taking place,blessing place,7,DL,58
+4875,4875,6776284781,2396,640,360,where are the lady and the boy walking,forest trail,6,DL,68
+4905,4905,11794880314,1549,640,360,where is the girl playing,living area,7,DL,68
+4947,4947,3705663920,683,640,480,where is this video taken,outdoor,5,DL,50
+4952,4952,4940808240,986,640,480,where does the kid hang out,floor in the home,6,DL,64
+4980,4980,4959088086,1064,320,240,where is this video taken,home,10,DL,68
+5013,5013,4394765300,522,640,480,where is the baby sitting on,lady s lap,2,DL,38
+5063,5063,5550305641,2697,640,480,where is this video taken,park,6,DL,68
+5089,5089,5622582668,1170,640,480,where is the video taken,ice cream store,9,DL,68
+5131,5131,8886103892,798,640,360,where is this happening,park,5,DL,23
+5164,5164,7173743064,712,640,480,where are the boys hanging out,roadside,3,DL,68
+5191,5191,5451088285,954,360,480,where are the people hanging out,terrace,8,DL,16
+5193,5193,2792202513,401,320,240,where is this happening,backyard,6,DL,68
+5201,5201,3804458046,1427,480,360,where is this place,outside a house,7,DL,77
+5211,5211,3492285627,1702,640,480,where is the food,on the table,1,DL,68
+5214,5214,7828681900,544,640,480,where is this video taken,riverside,4,DL,33
+5229,5229,5276779893,1404,640,480,where are the people hanging out,room,5,DL,68
+5243,5243,4766274786,979,640,360,where is this video taken,living room,8,DL,68
+5251,5251,7916860778,418,640,360,where are the people hanging out,garden,7,DL,52
+5268,5268,3060640279,790,320,240,where is this place,living room,4,DL,38
+5277,5277,7580367082,2052,640,360,where could this be happening,hospital,2,DL,58
+5291,5291,7004238086,435,320,240,where is this video taken,living room,2,DL,27
+5297,5297,10467727335,1360,640,360,where are the man and girl at,living room,8,DL,27
+5323,5323,2416632400,988,640,360,where is this happening,train station,5,DL,37
+5356,5356,2836465095,1812,500,375,where are they performing,stage,6,DL,65
+5393,5393,3172491020,1365,640,480,where is this happening,on a mountain,8,DL,39
+5413,5413,2577914719,2007,640,480,where is the boy hanging out,living room,5,DL,50
+5426,5426,7375575700,666,640,480,where are the dogs hanging out,room,3,DL,71
+5437,5437,4207981117,360,640,360,where are the woman and the dog hanging out,park,6,DL,39
+5466,5466,2500623285,450,500,333,where is this video taken,beach,7,DL,71
+5471,5471,6889066554,2460,640,480,where is the video taken,train track,2,DL,37
+5516,5516,4254626112,2158,320,240,where are the kids dancing,living room,9,DL,46
+5526,5526,4794935391,430,568,320,where is this video taken,table outdoors,7,DL,77
+5528,5528,2779340329,915,640,480,where is this video taken,train,7,DL,68
+5551,5551,3386797396,345,640,480,where is this video taken,goat farm,6,DL,68
+5557,5557,5080289573,396,640,480,where is this video taken,river,8,DL,68
+5581,5581,3350068648,687,640,480,where is this video taken,along the streets,7,DL,50
+5582,5582,2876825076,459,640,480,where are the people hanging out,bedroom,6,DL,58
+5584,5584,9711707112,549,640,360,where is the place,forest,4,DL,52
+5585,5585,5508995205,1110,640,362,where is this video taken,swimming pool,8,DL,38
+5606,5606,4693467772,724,640,480,where is this video taken,grass patch,6,DL,5
+5626,5626,3122394310,1512,640,428,where are the people dancing,frontyard,5,DL,58
+5627,5627,9935699345,639,640,360,where is this place,obstacel c ourse,7,DL,58
+5635,5635,2976591964,1638,640,480,where is this place,park,8,DL,68
+5665,5665,10437686463,587,640,1128,where is this video taken,room,3,DL,68
+5673,5673,11278971046,408,640,360,where is this place,classroom,7,DL,68
+5757,5757,4273509832,1337,640,360,where is this place,living room,7,DL,33
+5767,5767,5353486947,464,320,568,where is this happening,living room,8,DL,38
+5773,5773,4903593284,2697,320,240,where is this video taken,stage,8,DL,68
+5789,5789,3430723284,796,352,288,where are the people at,on a sofa,7,DL,27
+5791,5791,3626207014,1286,640,480,where are the people hanging out,living room,4,DL,27
+5799,5799,3216757365,2697,640,480,where is this happening,porch,10,DL,1
+5803,5803,6382059603,1416,640,480,where are the people hanging out,car,9,DL,68
+5809,5809,4880611877,2697,640,480,where is this,home,7,DL,27
+5813,5813,4536434821,1380,640,480,where is this happening,garden,10,DL,33
+5844,5844,6663770743,1521,640,480,where is this happening,outdoors,10,DL,33
+5849,5849,7587067930,735,640,360,where is this video taken,living room,4,DL,27
+5892,5892,10905462446,370,640,360,where is this place,outdoors,8,DL,58
+5894,5894,5477272417,990,640,362,where was the man and the woman at,rainforest,3,DL,58
+5900,5900,2956081853,540,640,480,where could this be happening,home,8,DL,25
+5907,5907,6000221920,1302,640,360,where is this place,near a staircase,4,DL,58
+5919,5919,8032967534,2190,640,480,where is the man in white sitting,at the side on the stage,3,DL,62
+5932,5932,3050287321,1044,500,375,where are the people hanging out,bedroom,1,DL,38
+5979,5979,4787311381,1693,640,360,where is this happening,kitchen,6,DL,1
+5990,5990,4353644811,1522,320,240,where is the dog sitting,couch,8,DL,27
+5998,5998,2777021212,748,500,375,where is the video being taken,shooting range,8,DL,58
+6004,6004,3701219945,1301,640,480,where is the setting of the video,desert,0,DL,52
+6013,6013,6158132572,2251,640,360,where is this video taken,house,5,DL,27
+6031,6031,4337653722,907,640,360,where is the man riding the horse on,snow,4,DL,67
+6036,6036,3525178080,570,320,240,where is this video taken,forest,8,DL,58
+6087,6087,13339367205,339,640,360,where are the dogs hanging out,park,0,DL,71
+6094,6094,8625406771,1466,640,360,where does the girl get the ball from at the beginning,from pocket,1,DL,71
+6118,6118,4754644196,405,640,360,where did the lady in grey shirt put her bag,beside her,9,DL,39
+6130,6130,6026054776,659,640,480,where is this video taken,classroom,9,DL,68
+6141,6141,7492345390,1379,640,360,where is this video taken,living room,4,DL,27
+6145,6145,6994417868,421,640,480,where is the man trying out the toy,shop,9,DL,59
+6152,6152,4976487220,2643,320,240,where are the people hanging out,house,6,DL,16
+6184,6184,3992773451,744,480,640,where is this place,pool,6,DL,68
+6223,6223,4226455621,975,640,480,where is this likely to be occurring,living room,11,DL,68
+6229,6229,3375064270,324,640,360,where is this video taken,snowy hill,7,DL,21
+6232,6232,3501167063,1434,352,288,where is this video taken,home,5,DL,38
+6248,6248,2676529856,1242,500,375,where is this video taken,living room,5,DL,68
+6296,6296,8900428927,308,640,360,where is this video taken,zoo,9,DL,63
+6351,6351,6973757699,365,568,320,where is the girl cycling,on the pavement,8,DL,68
+6357,6357,3485338448,660,640,480,where is this happening,house,7,DL,38
+6391,6391,6781937922,543,640,362,where is this place,shopping district,6,DL,62
+6436,6436,5362528947,907,640,480,where is this video taken,snow mountain,4,DL,40
+6439,6439,2479343168,898,640,480,where are the people,forest,4,DL,40
+6440,6440,5171841751,869,360,480,where is this video taken,living room,7,DL,68
+6482,6482,5655025043,1706,640,362,where is this happening,garden,8,DL,58
+6502,6502,9094000959,2408,640,360,where is this place,house,7,DL,68
+6511,6511,3608098943,649,640,480,where are the people hanging out,living room,6,DL,11
+6516,6516,8507883824,1517,640,480,where are the people hanging out,road shoulder,9,DL,52
+6528,6528,3377611214,1107,640,480,where is the video taken,house,6,DL,27
+6531,6531,3183346596,608,640,480,where is the man resting,sitting on the rocks,1,DL,11
+6633,6633,3255908815,1017,640,480,where could this be happening,in house,9,DL,38
+6638,6638,11342887364,318,352,288,where is this video taken,dancing hall,8,DL,58
+6644,6644,2574703259,2697,640,428,where was this video taken,in a house,7,DL,25
+6650,6650,2639225467,345,640,480,where are the people hanging out,outdoor barn,5,DL,67
+6651,6651,4363482648,379,640,480,where is this video taken,an arena for dog show,4,DL,71
+6656,6656,11277683376,531,640,360,where is this video taken,classroom,8,DL,68
+6672,6672,4405746537,2697,640,480,where are the child sitting at,floor mat,4,DL,68
+6697,6697,3728184329,894,640,480,where is the activity occuring,high element corner,9,DL,58
+6813,6813,3317240291,839,320,240,where could this be happening,bedroom,11,DL,68
+6815,6815,6653111897,2694,640,426,where is this video taken,living room,5,DL,38
+6819,6819,2967931618,419,500,375,where is this happening,residential area,6,DL,68
+6830,6830,8625406771,1466,640,360,where are the girl and the dog hanging out,garden,9,DL,71
+6840,6840,4922092172,1440,640,480,where is this video taken,stage,5,DL,65
+6855,6855,9304080249,322,320,240,where is the toddler hanging out,living room,3,DL,68
+6860,6860,3384417792,2457,640,480,where is the girl eating,dining table,10,DL,68
+6875,6875,5617027305,483,320,568,where is this video taken,staircase at a park,4,DL,71
+6932,6932,5542785759,645,640,360,where is all the food displayed,on the table,2,DL,5
+6965,6965,2530293734,903,640,480,where is this happening,trail,4,DL,7
+6973,6973,2868301160,378,320,240,where are the people hanging out,lawn,2,DL,44
+6976,6976,4460322604,1907,640,424,where are the people hanging out,living room,7,DL,68
+7005,7005,10652030225,1989,640,360,where is the activity being carried out,matial arts,7,DL,16
+7031,7031,8726215081,1621,272,480,where is the baby hanging out,room,6,DL,68
+7050,7050,4088558209,2400,640,480,where is the video taken,stage,3,DL,58
+7056,7056,6257273545,2697,640,360,where is the video taken,living room,3,DL,58
+7069,7069,2962278896,2454,500,375,where did the man get the foam from,bathtub,9,DL,38
+7097,7097,3653430541,384,640,360,where are the people hanging out,forest,8,DL,50
+7123,7123,10400848434,375,640,360,where are the people hanging out,zoo,6,DL,33
+7167,7167,2704088930,1144,500,283,where is this place,beach,6,DL,68
+7178,7178,4440840337,337,480,360,where are the people sitting,bench,7,DL,11
+7183,7183,4885355005,632,640,360,where is this video taken,road,6,DL,52
+7209,7209,11645942265,980,480,640,where are the man and the baby hanging out,forest,7,DL,38
+7223,7223,3842638015,1828,640,480,where is this happening,kitchen,8,DL,68
+7227,7227,9402994355,631,640,480,where is this video taken,home,9,DL,38
+7243,7243,5292396210,420,640,360,where could this be happening,garden,9,DL,39
+7264,7264,2774457371,2038,320,240,where did the cat get the water to drink,from tap,7,DL,1
+7270,7270,8545885849,842,640,1138,where is the boy sitting on,floor,2,DL,68
+7272,7272,4935001480,2697,640,360,where is this,park,6,DL,33
+7277,7277,9371342049,365,640,360,where is this video taken,park,1,DL,58
+7309,7309,2792202513,401,320,240,where does the girl in pink get down from at the end,plank,4,DL,68
+7363,7363,2433368517,964,320,240,where is this video taken,outside a house at the road,6,DL,52
+7366,7366,8402613023,821,640,360,where is the baby at,at home,5,DL,38
+7421,7421,10149430394,675,640,360,where is this place,park,7,DL,68
+7429,7429,9231896269,434,640,1138,where are the people hanging out,kitchen,6,DL,38
+7453,7453,3487251005,610,640,480,where is this video taken,room,8,DL,62
+7472,7472,5471923610,1061,640,480,where is the man standing,behing glass rostrum,9,DL,62
+7517,7517,3835096097,528,640,480,where is this happening,sumo wrestling house,8,DL,58
+7521,7521,5875210125,564,480,640,where is this happening,park,10,DL,68
+7537,7537,12764453004,676,640,360,where is this video taken,outdoors,5,DL,68
+7542,7542,3377976885,330,320,240,where is this video taken,zoo,3,DL,4
+7557,7557,5278952446,474,640,480,where is this happening,couch,5,DL,23
+7622,7622,2547320060,756,500,375,where is this happening,living room,9,DL,68
+7629,7629,2597214137,2697,640,480,where is this place,living room,6,DL,38
+7636,7636,4070768447,719,320,240,where is this place,home,5,DL,38
+7642,7642,6339181867,1843,640,360,where is this video taken,bedroom,8,DL,38
+7649,7649,7957216542,2697,640,480,where is the girl hanging out,reading corner,2,DL,27
+7660,7660,2437115175,892,640,480,where are the lady and the dog at,bathroom,12,DL,71
+7664,7664,2577914719,2007,640,480,where is the boy sitting,bicycle,0,DL,50
+7665,7665,5552394033,308,640,360,where are the people playing the sport,grass patch,6,DL,52
+7681,7681,7227831086,502,640,480,where is the man biking,forest,8,DL,39
+7699,7699,3434653211,421,640,480,where is the boy at,footpath,0,DL,37
+7703,7703,4353169496,2697,640,480,where are the ladies sitting on,chairs,8,DL,16
+7715,7715,4346015300,575,640,480,where is this video taken,room,5,DL,1
+7726,7726,4631119360,1049,640,360,where is this video taken,beach,1,DL,68
+7730,7730,12299711406,938,640,1138,where could this be happening,kitchen,11,DL,68
+7738,7738,7694986054,1911,640,360,where is this,hospital room,4,DL,16
+7763,7763,11169386614,735,640,360,where is this happening,basketball court,12,DL,71
+7803,7803,8750015460,1133,640,360,where is this happening,classroom,9,DL,68
+7824,7824,5799371453,1046,640,480,where is this place,pet house,6,DL,16
+7894,7894,4389226223,1114,640,480,where is this happening,kitchen,8,DL,38
+7902,7902,4738042036,305,480,640,where is this place,living room,7,DL,68
+7904,7904,4311927018,888,640,480,where is this video taken,construction site,5,DL,58
+7935,7935,6317085607,2020,640,480,where is the speaker giving his speech,behind podium,0,DL,77
+7985,7985,6306690515,543,640,480,where is the cat hanging out,in the living room,6,DL,1
+7989,7989,6313200205,342,640,360,where is this happening,bridge,6,DL,30
+7994,7994,5608926424,870,640,480,where was the goat positioned with respect to the lady,in front,0,DL,66
+8001,8001,5445670939,457,640,480,where are the people hanging out,living room,7,DL,68
+8003,8003,3028133743,494,640,480,where is this place,swimming pool,8,DL,38
+8011,8011,3416303524,870,640,480,where is this,river,5,DL,9
+8055,8055,2542153546,1143,320,240,where is this video taken,in a room,5,DL,1
+8057,8057,5622582668,1170,640,480,where are both the kids eating the ice cream from,cup,11,DL,68
+8058,8058,7823823944,1233,640,360,where is this video taken,outdoors,7,DL,71
+8100,8100,4397841774,400,640,480,where is the boy hanging out,at a slope,8,DL,68
+8142,8142,9012054196,768,640,360,where is this video taken,conference room,9,DL,77
+8161,8161,6321842912,312,640,360,where are the people hanging out,bedroom,6,DL,38
+8164,8164,8469860079,1448,640,360,where is this,gymnasium,6,DL,23
+8177,8177,9221389917,635,640,480,where are the boy and girl playing,living area,11,DL,38
+8220,8220,7604206790,360,640,480,where are the boys hanging out,classroom,5,DL,68
+8296,8296,6447803681,2697,640,360,where is this happening,bedroom,10,DL,38
+8339,8339,3900682951,566,480,640,where is this happening,cave,7,DL,61
+8357,8357,6889066554,2460,640,480,where is this video taken,train railway,6,DL,37
+8378,8378,2984088185,937,640,480,where is this happening,in cardboard box,7,DL,71
+8395,8395,2569826147,396,640,480,where is ths happening,roadside,7,DL,1
+8400,8400,2906873825,479,500,375,where are the men performing at,outside restaurant,6,DL,65
+8403,8403,10640925015,435,640,360,where is this video taken,outdoorplay area,7,DL,68
+8410,8410,4914358389,1348,640,1138,where is this video taken,backyard,4,DL,71
+8424,8424,6889066554,2460,640,480,where is the train moving on,train railway,4,DL,37
+8427,8427,3885216493,894,480,360,where is this screen projected on,tv,7,DL,62
+8431,8431,2579825280,690,640,480,where are the ladies hanging out,by a stream,6,DL,39
+8450,8450,4754644196,405,640,360,where is this video taken,park,4,DL,39
+8460,8460,3381752581,1530,640,480,where is the cat at,kitchen,4,DL,31
+8469,8469,9528960175,4500,640,480,where is the child at,bedroom,7,DL,38
+8475,8475,5402233708,372,640,360,where is this video taken,living room,4,DL,27
+8501,8501,8064396272,693,640,360,where are the dogs hanging out,living room,6,DL,71
+8524,8524,2739709393,1258,500,375,where is this video taken,bedroom,6,DL,38
+8539,8539,8686938112,534,640,360,where are they riding their bike on,around a track,5,DL,52
+8542,8542,4015487071,614,640,480,where is this video taken,conference room,5,DL,62
+8580,8580,5883403537,541,640,480,where was the video taken,bedroom,0,DL,38
+8613,8613,6016853978,351,640,360,where is this occurring,home,9,DL,11
+8650,8650,12011352464,1082,640,360,where is this video taken,home,2,DL,68
+8699,8699,3042965654,454,320,240,where is this happening,walkway,10,DL,49
+8701,8701,4945866176,2697,352,288,where is this video taken,home,3,DL,68
+8742,8742,4405327307,710,640,360,where is this video taken,stage,7,DL,59
+8751,8751,5243085840,384,640,360,where is this video taken,living room,3,DL,68
+8761,8761,9046447320,373,640,360,where are the people hanging out,small room,8,DL,77
+8769,8769,3625960287,703,320,240,where is this happening,petting zoo,9,DL,68
+8770,8770,3631211612,730,320,240,where is this happening,at a party,6,DL,68
+8787,8787,4740345442,894,640,480,where is this happening,river side,10,DL,68
+8816,8816,3521537861,2697,640,480,where is this video taken,garden,9,DL,68
+8822,8822,4811179274,1251,640,480,where is this video taken,field,6,DL,68
+8824,8824,2779340329,915,640,480,where is the boy in red sitting,man s lap,4,DL,68
+8830,8830,4740931975,960,640,480,where is this video taken,lake,9,DL,45
+8842,8842,2983727948,642,320,240,where are the people,snow moutain,3,DL,22
+8865,8865,5571348093,895,512,288,where is this happening,living room,4,DL,68
+8868,8868,6388102299,1440,640,360,where is this video taken,bedroom,6,DL,38
+8883,8883,4937654460,2697,640,360,where is this video taken,room,8,DL,71
+8891,8891,2669597217,349,500,375,where is this happening,boat,9,DL,68
+8892,8892,6097011028,1380,640,360,where is this video taken,office,7,DL,62
+8900,8900,4775972536,887,640,360,where is this video taken,car,11,DL,68
+8902,8902,3006009155,374,500,375,where is this happening,garden,9,DL,68
+9007,9007,5478970215,313,640,362,where is this video taken,bridge,7,DL,29
+9019,9019,5032479143,536,480,640,where is this video taken,road,2,DL,52
+9021,9021,5176668462,519,320,568,where is this video taken,playground,4,DL,68
+9022,9022,4642870129,356,640,480,where is this video taken,outdoorroadside,4,DL,52
+9033,9033,7064920441,2179,640,360,where are the people hanging out,living room,6,DL,16
+9037,9037,3759094243,924,640,480,where is this activity held at,beach,4,DL,58
+9040,9040,5646554288,542,640,360,where is this video taken,field,7,DL,49
+9067,9067,4743196658,1119,640,360,where is this video taken,living room,3,DL,77
+9086,9086,5433704698,1004,480,640,where is the child hanging out,play area,12,DL,38
+9106,9106,6074900172,1108,640,360,where is this happening,garage,5,DL,13
+9120,9120,5678689001,720,640,360,where is the video taken,field,7,DL,71
+9138,9138,10495085476,918,640,360,where is this video taken,grass patch,11,DL,68
+9165,9165,8371375957,1202,640,360,where is the baby having its meal,at a restaurant,10,DL,68

@@ -1,0 +1,673 @@
+Unnamed: 0,Unnamed: 0.1,video,frame_count,width,height,question,answer,qid,type,bigCate
+5,5,6038769080,640,640,360,what colour was the dog,brown,8,DO,16
+16,16,8674344665,415,640,360,what is the animal shown in the video,crocodile,3,DO,69
+20,20,9134100603,441,640,360,how does the girl position her hand at the start of the video,put in mouth,5,DO,68
+24,24,5131508387,1488,640,424,what was the cat interested in,playing with the ribbons,5,DO,1
+58,58,6243138228,865,640,360,what is the relationship between the lady and the baby,parent offspring,0,DO,38
+63,63,4177367968,1095,640,428,what was the colour of the door,white,8,DO,38
+67,67,11848898333,1392,640,360,how are the people positioned around the area,standing in a line,5,DO,58
+75,75,8632946304,973,640,1138,what is the colour of the lady s bag,green,8,DO,68
+84,84,3521537861,2697,640,480,what is the possible relationship between the boy and the man,parent offspring,8,DO,68
+124,124,4641631235,1605,640,360,what instrument did they play,piano,4,DO,59
+125,125,6090059986,607,640,360,what is the black dog carrying,a polythene,10,DO,71
+145,145,5542785759,645,640,360,what does the lady in black do near the start,move the spoons,7,DO,5
+164,164,8392813576,300,640,480,what season is this,winter,2,DO,68
+182,182,7158973140,641,640,360,what alphabet is the red toy,h,3,DO,38
+188,188,7033605719,390,640,360,how does the man do to protect and support the kid sitting,holding him with his arm,2,DO,38
+207,207,3350068648,687,640,480,how did the man in black ensured he can see his surrounding clearly,spectacles,1,DO,50
+212,212,5699922217,1399,640,480,what did the performers do that makes the perform in sync,sway side to side,0,DO,27
+239,239,7833012608,393,640,360,what was the man pointing at the start of the video,book,4,DO,38
+256,256,2404303400,1923,640,480,how did the man playing the flute show that he was enjoying himself and feeling the rhythm,move body and stamp feet,6,DO,68
+257,257,4226455621,975,640,480,what is a possible relationship between the boy and the man in jeans,parent offspring,6,DO,68
+275,275,4827069441,499,320,240,how is the rabbit positioned in front of the boy,sit down,8,DO,68
+290,290,8340480194,488,640,360,how is the black dog looking,happy,5,DO,27
+307,307,5678063296,2424,640,360,how is the man in black suit positioned,sitting,8,DO,62
+323,323,8469860079,1448,640,360,what is the kid in white behind the lady in blue on the mat trying to do,a flip,5,DO,23
+334,334,8028122153,1017,640,480,what does the man use to stir the food in the pan,spoon,4,DO,77
+335,335,7390196932,935,640,360,how are the two crocodiles positioned at the end,looking away,9,DO,69
+339,339,6608631231,2697,640,360,what occupation is this person likely to have,chef,10,DO,77
+358,358,9371342049,365,640,360,what color is the pants that the woman on the right wear,white,5,DO,58
+364,364,2402178262,1285,320,240,how did the two men keep themselves warm,wear coats,10,DO,58
+382,382,5412696114,741,640,480,what is the color of the shirt the baby is wearing,pink,5,DO,27
+384,384,3336623732,1278,640,480,what is the purpose of the three vertical poles on the baby chair,to support the chair,4,DO,68
+411,411,4688206546,910,640,480,which body part did the boy used at the end of the video,hand,6,DO,77
+442,442,5503178247,950,640,480,how many kids were there,two,5,DO,68
+472,472,2402178262,1285,320,240,what is the relationship between the two men,friends,11,DO,58
+499,499,6994417868,421,640,480,who is the orange thing made for,kids,3,DO,59
+500,500,3028133743,494,640,480,what is the relationship between kid and the lady,mother and child,2,DO,38
+527,527,2574703259,2697,640,428,what are the brightly coloured objects in front of the baby s cot,toy,2,DO,25
+528,528,3747186945,1179,640,480,what is the relationship between the children,siblings,0,DO,27
+529,529,3336623732,1278,640,480,what is the relation between the boy and the baby,sibling,5,DO,68
+551,551,2579825280,690,640,480,what is the relationship between the ladies,friends,10,DO,39
+560,560,6468507251,509,640,480,who was the one who kissed,the boy,9,DO,68
+562,562,3701219945,1301,640,480,what action does the man behind the driving seat do,waves hand,8,DO,52
+573,573,2679006680,827,500,375,what does the toy represent,saxophone,1,DO,68
+593,593,4178047134,641,640,480,how did the lady keep the newborn warm,wrap it with blanket,5,DO,38
+602,602,11944072804,511,640,360,what is the object that he is examining,tickets and visa,1,DO,13
+610,610,9486619004,434,640,480,what season is this,winter,8,DO,71
+626,626,4405746537,2697,640,480,what event is being celebrated,christmas,9,DO,68
+627,627,2868301160,378,320,240,what is the relationship between the two men with money,business partners,8,DO,44
+628,628,4094248027,750,640,480,what is the woman in green holding on her hand,phone,2,DO,27
+631,631,5471923610,1061,640,480,what is the man hosting,game show,3,DO,62
+641,641,6885631865,676,640,360,what is a possible relationship between the baby and the person,parent and child,9,DO,38
+645,645,3521537861,2697,640,480,how did the man protect his head from the sun,cap,0,DO,68
+648,648,6608631231,2697,640,360,what is the person putting on the grill,food,11,DO,77
+650,650,4924794333,1058,640,360,how is the man positioned,sitting,8,DO,59
+679,679,2776910060,1241,500,375,what is the relationship between baby and man in black,parent offspring,5,DO,38
+696,696,5161932294,2697,640,1138,what are the two people wearing,white lab coats,11,DO,77
+706,706,2906873825,479,500,375,what is the relationship between the men in the video,band members,8,DO,65
+707,707,2401256231,1033,500,375,who was filming this,owner,7,DO,1
+711,711,3205604574,2697,640,480,what is in the girls mouth,pacifier,9,DO,68
+712,712,6936757706,600,640,360,what is the colour of the babys clothes,purple,5,DO,68
+722,722,8568772570,651,640,360,how did the people ensured they do not feel too hot,tie hair up,8,DO,58
+745,745,5499561130,2697,640,480,what is the relationship between the boy and the man,parent offspring,2,DO,27
+763,763,3121452683,831,640,480,what is the relationship between the man and the lady,couple,0,DO,58
+776,776,6419015349,599,640,480,what was wrapped around the baby s neck,towel,9,DO,27
+777,777,2935869403,687,500,375,who was holding the leash,man in red pants,4,DO,71
+790,790,6026054776,659,640,480,what is the relation between the children,classmates,5,DO,68
+798,798,2779340329,915,640,480,what is the relationship between the boy in red and the man in white,parent offspring,0,DO,68
+812,812,3702630327,347,640,480,what color is the outside of the boat,red,11,DO,61
+816,816,2637691975,653,640,480,what animal is this,dog,7,DO,71
+830,830,3217049754,1251,640,480,what is the baby lying on,pram,1,DO,7
+835,835,6339181867,1843,640,360,how did the baby kept herself warm in the video,wear warm clothes,6,DO,38
+848,848,2828927371,1409,640,480,how are the baby and the woman in red related,parent offspring,2,DO,25
+858,858,3258993991,1380,640,480,what animal is shown in the video,dog,1,DO,71
+865,865,5478970215,313,640,362,how did the people kept themselves warm in the video,jacket,1,DO,29
+872,872,7080108581,1260,640,360,how do the children protect their eyes,wear glasses,7,DO,68
+875,875,3480618846,526,640,480,what is the colour of the path they are walking on,grey,7,DO,68
+892,892,3050287321,1044,500,375,what is the relationship between the adults and the baby,parent offspring,6,DO,38
+928,928,3332953908,2160,640,424,what is the relationship among the people playing different instruments and singing,team members,0,DO,59
+930,930,6802770639,2468,640,480,what is the possible relationship between the two men in the video,colleagues,3,DO,58
+940,940,5454409762,337,640,360,what is on the floor of the surrounding,snow,6,DO,50
+955,955,3705663920,683,640,480,how did the man protect his head from injury,wearing helmet,0,DO,50
+960,960,6310337188,2160,640,1138,what does the man do to the baby s feet,kiss,7,DO,38
+973,973,6853220537,659,640,352,what does the baby wear on her head,hat,6,DO,68
+1002,1002,6776284781,2396,640,360,what is the relationship between the lady and the boy,parent offspring,3,DO,68
+1004,1004,5791729526,2628,640,360,are there many people in the room,seven,8,DO,27
+1011,1011,5925869325,1770,640,480,how did the man in beige keep themselves warm,long sleeve shirt,2,DO,44
+1016,1016,6901974982,1826,640,426,how did the lady ensure she can see clearly,spectacles,1,DO,68
+1027,1027,5328563234,2332,640,360,what animal is in the video,dog,7,DO,38
+1035,1035,6118838509,1380,480,360,what animal is shown in the video,turtle,6,DO,8
+1036,1036,4250191168,350,360,480,what animal is being shown in the video,cat,6,DO,1
+1068,1068,4123808525,570,640,480,what does the man hold in his hand,scissors,7,DO,62
+1096,1096,7691046836,1460,640,480,who is holding the camera,the man,6,DO,68
+1104,1104,2758300055,1473,640,480,how are the man in blue and lady who walked pass in the background related,unrelated,2,DO,68
+1105,1105,2513624400,2697,640,480,what colour was the pacifier,green,8,DO,38
+1110,1110,5965267539,2697,640,480,what is the relationship between the two boys,siblings,5,DO,77
+1149,1149,3933732494,992,640,480,what is inside the container of water,fishes,5,DO,77
+1185,1185,8499569359,1010,320,240,what is the possible relation between the women,colleagues,3,DO,77
+1187,1187,4631119360,1049,640,360,how did the man protect himself from the sun,cap and sunglasses,4,DO,68
+1189,1189,3735590728,506,384,288,what is the relation between the kid and the lady,parent offspring,1,DO,38
+1199,1199,4657161080,804,640,360,how are the people on the stage ensuring that their music can be heard,amplify sound through microphones,4,DO,58
+1209,1209,12011352464,1082,640,360,what is the kid holding in his hands,microphone,1,DO,68
+1237,1237,3064389881,802,640,480,what is the possible relationship between the man and the baby,parent offspring,6,DO,38
+1261,1261,6895329002,718,640,1138,how did the man protect his feet from getting dirty and wet,wear boots,8,DO,71
+1262,1262,4740931975,960,640,480,how did the man protect his head from the sun,cap,0,DO,45
+1269,1269,2996876993,720,640,480,how does the girl feel,happy,4,DO,38
+1313,1313,5530887795,2277,640,360,what colour is the mans hat,white,7,DO,58
+1387,1387,5847098868,1178,568,320,what is the animal shown in the video,dog,5,DO,16
+1402,1402,6420147083,1327,568,320,what is the boy holding,microphone,1,DO,68
+1416,1416,7533206274,564,640,360,how does the lady sitting at the side position her arms at the end,cross on her shoulder,8,DO,68
+1428,1428,5542785759,645,640,360,what is the lady in yellow taking pictures off,food items,0,DO,5
+1431,1431,8666744695,783,640,480,what animal is shown in the video,dog,4,DO,71
+1434,1434,4060545487,457,640,480,what activity is happening,horse riding,1,DO,67
+1443,1443,7331895158,359,640,480,how does the lady in the pool position her right hand,ledge of pool,9,DO,68
+1458,1458,9221389917,635,640,480,what is the girl in white draging,pram,10,DO,38
+1465,1465,9203522308,1039,640,480,what is the occasion in the video,birthday,7,DO,12
+1476,1476,3477094374,1824,640,480,what makes baby laugh and move his arms and legs,the cameraman,2,DO,68
+1477,1477,5550305641,2697,640,480,what is the boy riding on,tricycle,1,DO,68
+1482,1482,12257884095,589,640,360,what are on the walls of the classroom,paper,8,DO,68
+1502,1502,6279934011,1817,640,360,what are the stickers on the table,animals,3,DO,68
+1543,1543,5646554288,542,640,360,how did the players protect their heads from injury,helmet,0,DO,49
+1553,1553,4561357748,468,640,480,how is the man positioned at the start of the video,half squat,4,DO,77
+1559,1559,4463062358,526,640,480,how did the man ensured that he can see the baby clearly,wear glasses,5,DO,38
+1583,1583,3932142423,2669,640,480,what did the man shown at the beginning wear on his head,shades,6,DO,68
+1592,1592,6862984319,696,640,360,which is the bigger elephant,one on the right,7,DO,63
+1613,1613,5460127828,653,640,480,what is the possible relationship between the two children,siblings,5,DO,68
+1625,1625,4170300998,531,640,480,how do the people keep warm,wear thick clothings,3,DO,52
+1629,1629,3804458046,1427,480,360,how were they feeling,confused,5,DO,77
+1642,1642,6813372954,1412,640,360,what did the man in white hang on his shirt,spectacles,6,DO,58
+1645,1645,8724958702,2345,640,360,what is the relationship between the girl and the boy,siblings,3,DO,68
+1669,1669,5032479143,536,480,640,how did the men on bicycle protect their head,helmet,0,DO,52
+1670,1670,9663613477,794,604,1072,what is the animal shown in the video,dog,10,DO,71
+1701,1701,4394765300,522,640,480,how did the lady keep herself warm,jacket,8,DO,38
+1713,1713,12764453004,676,640,360,what is the child pushing,a walking toy,0,DO,68
+1723,1723,5328563234,2332,640,360,what is the relationship between the lady and baby,parent offspring,6,DO,38
+1772,1772,7975528915,2430,640,360,what is the man with blue cap using to point the man across,pen,7,DO,58
+1781,1781,3575108079,1526,640,480,how did the lady in white see clearly,wear glasses,6,DO,77
+1798,1798,3261112327,962,640,480,what are the three chickens searching for in the wood,food,0,DO,36
+1801,1801,5925869325,1770,640,480,how did the man in grey ensure he can see clearly,wear spectacles,12,DO,44
+1855,1855,5131508387,1488,640,424,what did the cat have on its neck,collar,0,DO,1
+1872,1872,10922064546,2160,640,360,what kind of talk is this held in the room,a speech,2,DO,58
+1875,1875,2547320060,756,500,375,what is the occassion seen in the video,birthday celebration,0,DO,68
+1884,1884,4405327307,710,640,360,what is the role of the lady with a cap,director,2,DO,59
+1898,1898,6447803681,2697,640,360,what is the relationship between the lady and the baby,parent offspring,5,DO,38
+1912,1912,4161474420,850,640,480,how did the people keep themselves warm in the cold,by staying near the fireplace,1,DO,64
+1944,1944,3439955661,462,320,240,what is the relationship between two subjects in the video,sibling,0,DO,68
+1951,1951,4337653722,907,640,360,what is the man in engaging in,horse riding,5,DO,67
+1975,1975,3487251005,610,640,480,what is the relationship between the person in black shirt and the boys in black and blue,producer and cast,3,DO,62
+2013,2013,2403087559,719,480,640,how is the person at the side filming positioned,standing,6,DO,58
+2026,2026,5297426137,1227,640,360,how many girls are there,one,10,DO,68
+2035,2035,6321842912,312,640,360,what is the relationship between the lady and the child,parent offspring,4,DO,38
+2039,2039,4178472052,369,640,480,is the man in checked shirt teaching the man to shoot,not sure,3,DO,77
+2044,2044,4474292288,1199,640,360,what is the relationship between the woman and the baby,mother child,6,DO,38
+2057,2057,3579030253,2697,640,480,what did the lady throw,a soft toy,4,DO,71
+2059,2059,6279934011,1817,640,360,what animal sticker did the girl put on the man s hand,goat,8,DO,68
+2072,2072,3842392593,668,320,240,what does the man have in his right hand initially,toy,3,DO,71
+2075,2075,4124400853,1692,640,360,what is the relationship between the woman and the baby,parent offspring,0,DO,38
+2083,2083,5849071543,1102,640,360,how did the man in green protect his eyes from the sun,wear sunglasses,3,DO,50
+2090,2090,3381602382,1757,320,240,what is the relationship between the woman and the children,parent offspring,0,DO,77
+2130,2130,5592676458,2632,640,362,what colour shirt is the boy wearing,blue,0,DO,68
+2134,2134,4293949179,300,640,480,how does the baby keep warm,wear thick clothes,3,DO,38
+2139,2139,5965267539,2697,640,480,what colour was the cutter near the hair of the boy in red,white,11,DO,77
+2143,2143,4544425606,806,320,240,how did the man protect his hand from getting injuries by the eagle,thick gloves,2,DO,33
+2167,2167,3383323177,1785,640,428,what is the relation between the baby and the man,parent offspring,1,DO,16
+2182,2182,3064389881,802,640,480,what is the baby chewing in her mouth,pacifier,0,DO,38
+2185,2185,8277189448,870,640,360,how many children were there,three,6,DO,68
+2201,2201,3081360150,1780,640,480,what did the man do with the snake near the middle of the video,picks the snake up,6,DO,79
+2202,2202,8666744695,783,640,480,what is the relationship between the two girls,friends,1,DO,71
+2205,2205,8900428927,308,640,360,what is the trainer holding on his right hand,stick,11,DO,63
+2206,2206,3042965654,454,320,240,what is the equipment that the man is shown with,prototype of a hot air balloon,1,DO,49
+2211,2211,5646554288,542,640,360,what is the sports that the people in the video are playing,rugby,8,DO,49
+2217,2217,9214485291,1958,640,426,what are the colours of the two bowls the baby holds,blue and purple,8,DO,68
+2229,2229,3459862895,1863,320,240,what is the relationship between the man and the boy,parent offspring,0,DO,77
+2236,2236,3769795457,1905,640,480,what is the relationship between the boy in white and the boy in blue,siblings,0,DO,68
+2270,2270,11278971046,408,640,360,what are the two girls holding,country flag card,0,DO,68
+2284,2284,4135845237,1389,480,352,how does the person in black protect the child,walk beside,0,DO,68
+2326,2326,5706585620,1093,640,480,how do the riders keep themselves warm outdoors,wear warm clothes,1,DO,67
+2350,2350,5493350492,2697,640,480,what was the colour of the ball at the back,green,7,DO,68
+2351,2351,10747331063,667,640,360,judging from the attire what is the relation between the two boys,teammates,5,DO,49
+2357,2357,6419015349,599,640,480,what did the boy touch at the end of the video,laptop,6,DO,27
+2362,2362,4203080888,801,640,480,what is the girl wearing on her head,head band,8,DO,68
+2370,2370,4394765300,522,640,480,what is the relationship between the lady and the baby,parent offspring,0,DO,38
+2404,2404,8507883824,1517,640,480,what is the relationship between the boy and the man,parent offspring,5,DO,52
+2406,2406,5571348093,895,512,288,what is the kid paying attention to,television show,1,DO,68
+2408,2408,11277683376,531,640,360,what is the animal depicted on the poster behind them,bird,5,DO,68
+2409,2409,7080108581,1260,640,360,what were all the children wearing on their hands,gloves,2,DO,68
+2437,2437,4578166923,1901,640,480,how did the man in grey ensured he can see clearly,wear spectacles,5,DO,58
+2448,2448,3317240291,839,320,240,what is the relationship between the kids,siblings,0,DO,68
+2449,2449,2996876993,720,640,480,what is the relationship between the girl and the lady,parent offspring,5,DO,38
+2457,2457,4825019426,1173,640,480,who is the one to kiss the pole,the boy,7,DO,68
+2467,2467,11848898333,1392,640,360,how did the waters stay fixed in position on slopes,ice,0,DO,58
+2468,2468,2777021212,748,500,375,how did everyone protect themself from the loud noise,by wearing ear muffs,4,DO,58
+2469,2469,6419015349,599,640,480,what is the lady carrying,baby,7,DO,27
+2476,2476,2965378944,657,640,480,what is the relationship between the lady and the boys,parent offspring,6,DO,52
+2496,2496,2528769674,2268,320,240,how is the child positioned at the end of the video,on the floor,5,DO,68
+2505,2505,5564473671,1346,640,360,what posture do they take to shoot the arrows,stand sideways,5,DO,23
+2509,2509,2406704873,1187,480,480,what kind of real life vehicle does the toy depict,fire truck,9,DO,68
+2512,2512,2836465095,1812,500,375,why is there blue lights near the stage,decoration,7,DO,65
+2521,2521,4394765300,522,640,480,what is the lady sitting on,toilet bowl,5,DO,38
+2528,2528,3495630576,396,640,480,what is the weather outside,rainy,5,DO,27
+2534,2534,4892549531,1767,640,1138,what is the colour of the woman's shirt,pink,7,DO,16
+2547,2547,2924847675,528,320,240,what is placed on the right to the lady on stage,tv screen,2,DO,62
+2549,2549,3477094374,1824,640,480,what does the movement of arms and legs of the baby signify,excitement,1,DO,68
+2554,2554,5073490515,2035,640,480,how did the baby warm himself in the video,long sleeve,0,DO,25
+2603,2603,11278971046,408,640,360,what is the activity being held here,having a conversation,1,DO,68
+2616,2616,4250191168,350,360,480,what is colour of the cat,brown,3,DO,1
+2618,2618,8759087873,806,640,360,what is the colour of the shirt of the person directing the dancing people,white,8,DO,58
+2619,2619,4825019426,1173,640,480,what did the man do to get the kids attention,waving his hand,3,DO,68
+2663,2663,3375723261,2314,640,480,what is this video about,performance,3,DO,65
+2680,2680,2758135371,719,320,240,what animal was shown in the video,snake,4,DO,79
+2716,2716,3512311005,2697,640,480,what is the possible relationship among the people in the video,friends,7,DO,65
+2719,2719,5589529025,900,640,360,what is the relationship between the woman and the children,parent offspring,2,DO,68
+2747,2747,2433368517,964,320,240,what is the relationship between the man and the woman,couple,0,DO,52
+2771,2771,3885216493,894,480,360,what is the person shown on screen holding throughout the video,phone,3,DO,62
+2778,2778,12532492544,570,640,480,what are the birds trying to pick up from the wooden bench,food,1,DO,33
+2820,2820,4758751564,360,640,480,what are the colours of the two boats,red and green,6,DO,61
+2827,2827,4555151860,1423,640,480,what is the colour of the child's shirt,yellow,5,DO,77
+2860,2860,3386238080,1253,640,480,what is the tone the video in the phone is trying to generate for viewers,scary feeling,2,DO,3
+2895,2895,5624778109,612,272,480,what is the man holding,dog s paws,1,DO,71
+2909,2909,9938542916,824,640,360,what is in the baby s mouth,pacifier,0,DO,38
+2933,2933,4979601057,1155,640,360,what has the boy put in his mouth,pacifier,0,DO,68
+2935,2935,2662773013,975,640,480,what is the woman holding,beverage box,1,DO,16
+2957,2957,5650793185,929,480,360,how are the man and the baby related,parent offspring,0,DO,38
+2961,2961,12397126264,1854,640,360,what colours are the dogs,brown and white,4,DO,71
+2970,2970,5678063296,2424,640,360,how is the person in green skirt positioned on stage,standing,4,DO,62
+2972,2972,5925869325,1770,640,480,what is the man in beige holding in his hand,drink,3,DO,44
+2977,2977,6068969659,2697,480,640,what did the lady in blue helped the other lady do,release her from the rope,2,DO,16
+2998,2998,2574703259,2697,640,428,what was the baby looking at throughout the video,the camera,9,DO,25
+3004,3004,4607629530,1387,640,360,how is the man in grey leaning on the table feeling about the conversation,amused,3,DO,39
+3031,3031,5475182274,1786,640,360,what is the girl playing with throughout the video,frying pan toy,8,DO,68
+3040,3040,3553030619,1471,320,240,why did the baby bend down?,falling down,2,DO,68
+3045,3045,4315349265,1643,480,640,what is the relationship between the man and woman cutting the cake,couple,0,DO,12
+3115,3115,2930921250,2197,320,240,what instrument is the man playing,guitar,2,DO,65
+3128,3128,3942746345,1152,360,480,who is the cat looking at,adult,1,DO,1
+3135,3135,2499564345,2697,320,240,how were the baby s hands positioned at the end of the video,palm facing the air,7,DO,38
+3167,3167,6625133293,407,640,360,what is the role of the lady in red in the video,billing,8,DO,58
+3168,3168,3933732494,992,640,480,what is the item that the lady is holding with her right hand,plastic scoop,2,DO,77
+3176,3176,2758300055,1473,640,480,how are the two kids related,siblings,0,DO,68
+3177,3177,5622582668,1170,640,480,what is the boy wearing,wearing a jacket,4,DO,68
+3184,3184,3491310026,750,640,480,what is the baby looking at,camera,4,DO,38
+3188,3188,5454409762,337,640,360,what is the person in yellow wearing on her head,a beanie,1,DO,50
+3201,3201,3711174274,885,360,480,what is the color of the balloon,yellow,0,DO,68
+3205,3205,8576727783,328,640,362,what is the girl holding on to,phone,1,DO,3
+3223,3223,3753830144,544,640,480,who is the girl in green,student,4,DO,68
+3233,3233,4924794333,1058,640,360,what is the relation between the man and the baby,parent offspring,2,DO,59
+3239,3239,2847341313,743,640,480,how is the dog positioned at the start,sitting,3,DO,71
+3247,3247,6243919243,630,640,480,what makes the motorcycle come to a complete stop at the junction,red light,1,DO,52
+3250,3250,7080108581,1260,640,360,what did the boy in orange do to paint more conveniently towards the end of the video,sit down beside the table,9,DO,68
+3293,3293,5791729526,2628,640,360,how does the man in black polo shirt position his left arm as he sits on the sofa,perch on sofa arm,6,DO,27
+3301,3301,6801869574,600,640,480,what is the relationship between the man and the baby,parent offspring,5,DO,68
+3314,3314,9320572138,783,640,360,what is the relationship between the two boys,siblings,8,DO,68
+3319,3319,5647715900,1768,640,480,what was on the ground the whole time,toy doll,6,DO,68
+3331,3331,4657161080,804,640,360,how are the microphones held in place,mike stand,1,DO,58
+3346,3346,6663770743,1521,640,480,how does the lady protect her hand from the claws of the bird,wear glove,0,DO,33
+3366,3366,4161474420,850,640,480,what is the boy holding,toy,0,DO,64
+3377,3377,7757567866,1615,640,360,who started the imitation movement first at the beginning of the video,woman with purple scarf,8,DO,58
+3391,3391,8652286448,1215,640,360,which animal first licked the other animal s face,small kangaroo,8,DO,74
+3398,3398,8617869131,926,640,480,what animal is in the video,horse,5,DO,67
+3404,3404,3942746345,1152,360,480,what is the person holding in the video,food,9,DO,1
+3415,3415,4213031701,1581,640,360,what is the relationship between the lady and the baby,parent offspring,5,DO,38
+3422,3422,4593026716,720,640,480,how is the weather like,snow,6,DO,52
+3433,3433,10640925015,435,640,360,what is the relationship between the boy wearing white shirt and girl,friends,1,DO,68
+3434,3434,5826069843,612,640,360,how did the boy succeed in turning the red boat from upside down position,standing up and lifting it,1,DO,61
+3460,3460,3172491020,1365,640,480,what season is this,winter,9,DO,39
+3466,3466,2558039818,726,640,480,what is the possible relationship bewteen the man and the baby,parent offspring,3,DO,68
+3473,3473,5588738404,931,640,480,what are the cats lying on,towel,3,DO,1
+3503,3503,4742652230,634,640,480,what is the possible relationship between the girl and the baby,siblings,6,DO,64
+3517,3517,2814476910,711,500,375,how did the lady protect her eyes from the sun,sunglasses,4,DO,68
+3524,3524,8499569359,1010,320,240,what type of event is occuring,museum demonstration,2,DO,77
+3538,3538,2814476910,711,500,375,what are the people in the video playing,seesaw,7,DO,68
+3541,3541,8696216243,890,640,360,what is the possible relation between the lady in green and the children,parent offspring,5,DO,68
+3554,3554,3003152116,1402,640,480,what animal is this,cat,0,DO,1
+3557,3557,7331895158,359,640,480,how does the boy get into his diving position,put his hands up,7,DO,68
+3563,3563,5471923610,1061,640,480,what is going on in the video,game show,0,DO,62
+3572,3572,6321842912,312,640,360,what is the child trying to communicate through his movement,happiness,3,DO,38
+3577,3577,4945866176,2697,352,288,how many people are involved in the video,two,1,DO,68
+3579,3579,4794935391,430,568,320,what colour shirt was the man wearing,white,6,DO,77
+3583,3583,4289404873,1355,640,480,how did the man hiking protect his feet from the rough terrain,wear shoes,5,DO,39
+3600,3600,3134608824,1019,384,288,what did the girl put into her mouth,pacifier,8,DO,31
+3626,3626,10278239024,1218,640,480,how did the boy in green position himself on the sofa,sitting,7,DO,38
+3640,3640,9221389917,635,640,480,what is the relationship between the boy and the girl,siblings,2,DO,38
+3642,3642,2733959191,2697,500,375,what are the colours of the light on stage,white,6,DO,65
+3679,3679,5073490515,2035,640,480,how did the man see the baby clearly,wear spectacles,10,DO,25
+3712,3712,8759087873,806,640,360,who started the dance first out of the three men at the lift lobby,middle man in white shirt,3,DO,58
+3722,3722,10728284944,2427,640,480,what is the relationship between the girl and the boy,sibling,1,DO,68
+3764,3764,10495085476,918,640,360,what is the relationship between the child and the adult,parent offspring,5,DO,68
+3769,3769,3969677780,2697,320,240,how did the man in black ensure he can see clearly,spectacles,3,DO,62
+3772,3772,3621121750,1481,640,360,how is the boy positioned on the chair,kneeling,4,DO,16
+3784,3784,2404303400,1923,640,480,what is the likely relationship between the men,teammates,2,DO,68
+3799,3799,5913320110,1376,640,480,how was the man with shirt positioned on stage at the start,standing,4,DO,58
+3814,3814,10309844035,960,640,360,what is the relationship between the two men,colleagues,8,DO,3
+3822,3822,5791729526,2628,640,360,how are the people positioned in the room,sitting,5,DO,27
+3884,3884,3384417792,2457,640,480,in what is the girl having her cereal,bowl,11,DO,68
+3885,3885,8686938112,534,640,360,what is the possible relationship among the people,competitors,9,DO,52
+3887,3887,7530907250,677,272,480,what was the colour of the man's shirt,white,6,DO,38
+3900,3900,2433368517,964,320,240,what is there on the car,roses,8,DO,52
+3949,3949,5918453123,1461,640,360,what is the background behind the boys,hisorical building,10,DO,16
+3972,3972,7516286866,438,640,360,which toy did the baby pick up at the end,colourful toy,8,DO,38
+3973,3973,6097011028,1380,640,360,how did the lady in flower shirt see her surrounding clearly,wear spectacles,1,DO,62
+3982,3982,5592676458,2632,640,362,what is the relationship between the boy and girl with the lady in pink jacket,parent offspring,1,DO,68
+3989,3989,5162091958,1479,640,360,what are the kids trying to paint with the colors,painting,1,DO,77
+3990,3990,2956081853,540,640,480,what is the relationship between the boy and the girl,siblings,0,DO,25
+3992,3992,4326843514,612,640,480,what is the relationship between the lady and the baby,parent offspring,0,DO,38
+3996,3996,5883748313,1002,480,640,what does the child hold in his hands at the start,bottle,1,DO,38
+4035,4035,6029706386,1050,640,480,what is the man trying to do with the baby in the beginning,trying to make her walk,0,DO,38
+4038,4038,4220621763,1338,640,480,how do people keep warm indoors,wear thick clothes,0,DO,27
+4044,4044,5263448487,2139,640,362,what sort of performance is taking place,snake handling,7,DO,79
+4062,4062,3294811247,603,320,240,what sports are the people playing,table tennis,8,DO,77
+4070,4070,5475182274,1786,640,360,how did the man and the girl kept themselves warm,long sleeve shirts,9,DO,68
+4078,4078,3804458046,1427,480,360,what is the relationship between the men,friends,6,DO,77
+4080,4080,2777021212,748,500,375,what did the man do many times,practice shooting,1,DO,58
+4081,4081,6912509583,689,640,480,what is the relationship between the two running people,friends,9,DO,62
+4129,4129,3524009829,1198,640,480,what is the weather like,sunny,9,DO,68
+4132,4132,3210170020,1356,640,360,how did the boy position his legs at the start of the video,bend,5,DO,16
+4171,4171,2481132749,671,640,480,what is the possible relationship between the two men,friends,0,DO,35
+4182,4182,4497829146,810,640,428,how does the child get into crawling position in the middle of the video,move hands forwards ground,2,DO,68
+4200,4200,6620044377,850,640,360,what is the relationship between the baby and the man,parent offspring,4,DO,77
+4203,4203,4903593284,2697,320,240,what is the possible relationship among the children on the stage,classmates,9,DO,68
+4208,4208,8201826598,2138,640,360,what does the boy point to towards the end,camera,4,DO,68
+4231,4231,2889738670,327,500,283,what is the possible relation between the two persons,siblings,4,DO,7
+4234,4234,5328563234,2332,640,360,what was the woman try to do moving the baby s arms and legs at the beginning of the video,help baby crawl,0,DO,38
+4246,4246,3122394310,1512,640,428,what is the relationship between the man in black and the woman in blue jacket,couple,4,DO,58
+4260,4260,8993709862,848,640,360,what is the relationship between the people hanging out,friends,4,DO,11
+4289,4289,5647081404,720,640,480,how did the child protect her head from cold,woolen cap,0,DO,68
+4304,4304,9203522308,1039,640,480,what is a possible relationship between the woman and the boy,parent offspring,6,DO,12
+4308,4308,3933732494,992,640,480,what is the relationship between the the boy and the lady behind him,parent offspring,0,DO,77
+4311,4311,3789179865,325,640,480,what is the animal shown in the video,sheeps,3,DO,66
+4324,4324,7389955172,1773,480,640,which direction did the baby tilt his head to at the end,left,6,DO,25
+4339,4339,3343269521,1858,640,480,what else is there in the toilet besides the cat and the toilet bowl,brusher,9,DO,1
+4345,4345,7158973140,641,640,360,how did the baby kept herself warm,wear jacket,4,DO,38
+4354,4354,5912473393,1245,640,480,what is the relationship between the people on stage,band members,5,DO,65
+4369,4369,3522190635,1068,640,480,how did the baby pushed himself up to the crawling position,turns around,9,DO,38
+4407,4407,5728924013,2697,640,480,what colour is the baby's seat,red,4,DO,25
+4415,4415,5451088285,954,360,480,what is the relatioshipn between the man and kid,parent offspring,1,DO,16
+4450,4450,9046447320,373,640,360,what is the relationship between the man in yellow and the woman,colleagues,3,DO,77
+4452,4452,2569826147,396,640,480,what did the grey cat do with the black cat s tail,playing with other cat,0,DO,1
+4456,4456,2779340329,915,640,480,what is there behind the man in white,helium balloon,5,DO,68
+4491,4491,3079724515,874,320,240,how are the boys keeping themselves warm in the video,jacket,3,DO,68
+4505,4505,6292691001,549,640,360,what is the relationship between the lady and the children,parent child,5,DO,16
+4521,4521,4126017457,387,480,360,what other things are on the sofa aside from the cats,pillow,5,DO,27
+4529,4529,4489511133,886,640,360,what device is the girl using in the video,phone,8,DO,68
+4533,4533,8617546237,679,640,360,which part of the house are the people at,kitchen,10,DO,68
+4537,4537,10209170426,485,640,1138,what was drawn on the walls,musical notation,6,DO,59
+4544,4544,2449442559,910,640,480,what is the thing in front of the woman with the hair tied in a bun,thread machine,9,DO,5
+4552,4552,4997304873,477,640,480,what are the men wearing,jacket,10,DO,58
+4566,4566,3216757365,2697,640,480,what season is this,winter there is snow,9,DO,1
+4588,4588,12257884095,589,640,360,what are the colours of the wall,white,10,DO,68
+4606,4606,2525831823,2244,320,240,what are the relations between the three people,team member,4,DO,58
+4641,4641,3615527856,371,640,480,is the road that the person is cycling on paved,paved,1,DO,50
+4656,4656,8568772570,651,640,360,what is the relationship between the four people,friends,9,DO,58
+4659,4659,4421898163,757,640,480,what is the colur of the wallpaper of the room the baby entered at the end,green,8,DO,68
+4662,4662,5883403537,541,640,480,what is the adult wearing on his finger,a ring,6,DO,38
+4671,4671,9175646479,1135,640,360,what was the colour of the notebook,purple,8,DO,68
+4679,4679,2542153546,1143,320,240,what animal is shown in the video,cat,6,DO,1
+4706,4706,9405704144,695,640,480,what is the baby holding on his left hand,a ball,8,DO,38
+4717,4717,3223951946,474,640,480,how do the people keep themselves warm,wear thick clothes,7,DO,58
+4722,4722,10316970886,871,640,360,what is the relationship between the people and the baby,parent offspring,1,DO,38
+4756,4756,8632946304,973,640,1138,what was the playground decorated with,flags,4,DO,68
+4763,4763,4880611877,2697,640,480,what is the animal in the video,cat,4,DO,27
+4773,4773,4544425606,806,320,240,how is the eagle being positioned in the video,on the man s hand,1,DO,33
+4781,4781,4161474420,850,640,480,what is the toy in front of them,train,7,DO,64
+4785,4785,5188348585,1453,640,362,what is the name of the liquor,chivas regal,4,DO,11
+4789,4789,12532492544,570,640,480,what is the weather condition in the video,raining,0,DO,33
+4797,4797,3122140249,1614,640,480,what is the relationship between the people at the table,family,0,DO,12
+4798,4798,8029969533,1921,604,1072,what were the colours of the outfit worn by the ladies,white and pink,0,DO,58
+4813,4813,4834895241,489,640,480,how did the people driving the cart protect their head from injury,wear helmet,2,DO,52
+4818,4818,6160350737,1140,640,480,what did they use to make sure that their instrumnent does not fall off,straps,1,DO,65
+4828,4828,9938542916,824,640,360,what is the relationship of these two people,parent offspring,4,DO,38
+4832,4832,7484513326,1845,640,480,what sort of performance is this,guitar show,0,DO,65
+4834,4834,8032967534,2190,640,480,how did the man in suit ensured he can see clearly,wear glasses,5,DO,62
+4847,4847,4178047134,641,640,480,what is the occupation of the lady in green,nurse,1,DO,38
+4856,4856,2739709393,1258,500,375,what is the relationship between the other kid jumping near the end,sibling,4,DO,38
+4891,4891,5194023015,1125,640,480,what location are they in,stage,4,DO,58
+4896,4896,4080877621,658,480,640,how did the man see the lady clearly,wear spectacles,5,DO,58
+4897,4897,8857007026,2639,640,360,what was on the platform,a small house,9,DO,68
+4902,4902,5292396210,420,640,360,what is the color of the jacket the lady in red dress is wearing,purple,5,DO,39
+4922,4922,6546241805,570,272,480,what is the hair colour of the child,blonde,5,DO,77
+4937,4937,3561135916,1397,640,360,what is the occasion being celebrated,birthday,4,DO,68
+4948,4948,5263448487,2139,640,362,what animal was in the basket,snake,4,DO,79
+4972,4972,11672562206,740,640,360,how did the lady position her cheeks in the middle of the video to show affection to the dog,rubbed his head,5,DO,71
+4992,4992,6691315951,1107,640,480,what animal is shown on the red birdhouse,birds,4,DO,33
+4995,4995,4440716971,1539,360,480,what is the man near microphone holding,guitar,6,DO,65
+5004,5004,5793843215,2697,640,360,what is the colour of the dog at the back,black,3,DO,38
+5020,5020,4522565412,802,640,480,is the man trying to achive anything by solving the rubik s cube quickly,fastest time,1,DO,77
+5029,5029,5372042516,843,640,480,what is on the table,cake,1,DO,77
+5035,5035,2962278896,2454,500,375,what is the relationship between the man the baby,parent offspring,2,DO,38
+5037,5037,5514739631,1053,640,480,what is the possible relationship between the 2 children,siblings,3,DO,38
+5048,5048,10985344225,2518,640,384,how did the man in pink hat position his hands at the start of the video,cover his ears,8,DO,58
+5055,5055,2976061023,961,640,480,what is the relationship between the people in the circle,friends,4,DO,16
+5072,5072,8105331297,1225,640,360,what is the relationship between the lady and the baby,parent offspring,6,DO,59
+5082,5082,5880312109,902,640,360,what is lady tring to do with the kid,spinning the girl,1,DO,68
+5087,5087,4979527132,773,384,288,what is the relationship between the lady and the child,parent offspring,5,DO,68
+5124,5124,2924847675,528,320,240,what is the colour of the robot s face,black,9,DO,62
+5126,5126,6080431642,306,640,360,what was man wearing,spectacles,9,DO,68
+5138,5138,12257884095,589,640,360,how did the sitting position make it easier for a group discussion,can see everybody,1,DO,68
+5142,5142,8759410624,450,640,480,how does the lady position her right hand as she blew the candles,place on the table,7,DO,77
+5165,5165,3859630486,1838,640,480,what is the relationship between the woman and the boy,parent offspring,0,DO,68
+5225,5225,2703151976,1351,500,375,what is this video about,speech,8,DO,58
+5242,5242,7004238086,435,320,240,which parts of the body are they licking each other,neck,4,DO,27
+5256,5256,8553752644,369,640,360,how did the lady position her legs as she was going down,in front of her,8,DO,21
+5257,5257,6181099606,782,640,360,what is the relationship between the woman and the baby,parent offspring,0,DO,77
+5263,5263,3509821194,2430,320,240,how are the performers positioned on the floor at the start,kneeling,9,DO,58
+5270,5270,5093765132,930,640,480,how did the boy kept himself warm,long sleeve shirt,5,DO,68
+5368,5368,11794880314,1549,640,360,what is the toy girl is playing with,rocket,8,DO,68
+5379,5379,6299469194,704,640,360,how do the other two dogs at the back position themselves at the start of the video,on the floor,4,DO,71
+5389,5389,3704238156,917,640,480,what is the possible relationship between the lady and the boy,grandmother grandson,6,DO,27
+5396,5396,5176668462,519,320,568,how did the man in green protect his eyes from the sun,sunglasses,7,DO,68
+5398,5398,5508995205,1110,640,362,what colour was the baby wearing,pink,3,DO,38
+5405,5405,2891522362,465,320,240,what is the relationship between the child and the woman,parent offspring,5,DO,68
+5415,5415,3070014782,450,640,480,how do you think the boy and girl toddlers are related,silbling,1,DO,68
+5421,5421,2458544634,1224,640,480,how did the girl feel the water at the start of the video,using her finger,7,DO,68
+5441,5441,5542785759,645,640,360,what can we say about the lady in mustard about her profession,photographer,4,DO,5
+5444,5444,9132487788,1821,640,480,what are the men using the items in their hands as,musical instruments,2,DO,58
+5457,5457,3753830144,544,640,480,who is the man in blue,teacher,2,DO,68
+5467,5467,3006009155,374,500,375,what is a possible relationship between the two boys,classmates,10,DO,68
+5488,5488,4976487220,2643,320,240,what is used to fix the hair of blonde woman,large hair clip,8,DO,16
+5524,5524,9231896269,434,640,1138,what is the relationship between the man and the child,parent offspring,1,DO,38
+5535,5535,3747890905,1152,640,360,how does the baby feel after eating the food,happy,6,DO,38
+5548,5548,4578166923,1901,640,480,what is the guy in the green shirt wearing under his nose,fake mustache,2,DO,58
+5555,5555,4458449046,538,640,480,how did the man in stripes make sure that his position is accurate before he hits the ball,did a test shot,6,DO,52
+5586,5586,4688206546,910,640,480,how is the boy in red and man in black related,trainer trainee,0,DO,77
+5608,5608,3659989604,1053,640,474,what genre of music is the band playing on stage,rock,0,DO,65
+5621,5621,4311927018,888,640,480,what is the relationship between two men working on the construction site,colleagues,2,DO,58
+5633,5633,3844880628,519,640,360,what is the relationship between the lady and boys,parent offspring,2,DO,7
+5671,5671,3042965654,454,320,240,what is the man trying to do with the equipment,test,2,DO,49
+5678,5678,4177758139,2697,640,480,what is the relationship between the girl and the boy,siblings,2,DO,27
+5683,5683,3631211612,730,320,240,how did the people make sure they can see clearly in the dark,shine light,2,DO,68
+5685,5685,2676529856,1242,500,375,what is the baby holding on his left hand,a toy,0,DO,68
+5695,5695,6382059603,1416,640,480,what is the colour of the special chair that the babies are in,black,5,DO,68
+5720,5720,4430422083,904,640,480,what is the animal shown in the cage,chicken,4,DO,68
+5762,5762,8746344569,976,640,360,how do the people tapping the block position their body,bend forward,9,DO,77
+5777,5777,9320572138,783,640,360,what is the relationship between the lady in pink and the boys,parent offspring,5,DO,68
+5778,5778,13482206704,861,640,360,what is the occassion,birthday,0,DO,77
+5779,5779,2851079460,795,640,480,what could be the relationship between the two people,siblings,6,DO,16
+5806,5806,2574703259,2697,640,428,what emotion is the baby conveying,happy,5,DO,25
+5816,5816,3141642801,571,640,480,how did the people protect themselves for the activity they are doing,safety protection,0,DO,22
+5820,5820,4607629530,1387,640,360,what is the man in front of the refrigerator carrying on his shoulder,video camera,0,DO,39
+5826,5826,3522190635,1068,640,480,how did the boy get to the position of lying on his stomach,turns around,2,DO,38
+5866,5866,3300272359,1202,320,240,what is the relationship between the man and the child,parent and child,5,DO,38
+5878,5878,8576727783,328,640,362,what is the lady wearing on her fourth finger,ring,0,DO,3
+5910,5910,6653111897,2694,640,426,how did the girl kept herself warm,wearing long sleeve shirt,6,DO,38
+5915,5915,7390196932,935,640,360,how are the two crocodiles positioned at the start,facing each other,4,DO,69
+5927,5927,2685930614,430,500,375,what is the relationship between the guy in red and white and the further food station,owner,1,DO,58
+5941,5941,2499564345,2697,320,240,what is the relationship between the baby girl and the father,parent offspring,5,DO,38
+5946,5946,13503538465,416,320,568,how were the children positioned on the bed at the start,standing,4,DO,68
+5959,5959,9667167640,1305,640,1138,what is the animal shown in the video,dog,4,DO,71
+5964,5964,5171841751,869,360,480,what is the boy playing with,toy that moves,10,DO,68
+5967,5967,4825019426,1173,640,480,what gesture does both the kids share,clapping,6,DO,68
+5973,5973,9175646479,1135,640,360,what was the girl holding in her arm in the whole video,toy,0,DO,68
+6000,6000,8227806049,792,640,480,what is the relationship between the man and the baby,parent offspring,1,DO,38
+6019,6019,4265336268,807,640,360,how are the two men positioned in the room,sitting,8,DO,62
+6047,6047,4293949179,300,640,480,what is the relationship between the man and the baby,parent offspring,4,DO,38
+6051,6051,4363482648,379,640,480,what is being hung on the wall in the video,flags,7,DO,71
+6059,6059,3350068648,687,640,480,what color is the spectacles that the man in black wears,white,8,DO,50
+6075,6075,9938542916,824,640,360,what is the woman on the left trying to do,entertain the baby,2,DO,38
+6076,6076,7163754671,369,640,480,how was the smaller white dog positioned at the start of the video,sit down,2,DO,71
+6079,6079,2639225467,345,640,480,who are the men representing,cowboy,6,DO,67
+6080,6080,6045316181,1015,640,480,what is the relationship among the 3 children,siblings,5,DO,68
+6096,6096,6994417868,421,640,480,what do the letters on the thing mean,musical notes,5,DO,59
+6097,6097,3575108079,1526,640,480,what is the relationship between the woman in glasses and the man in black,couple,3,DO,77
+6121,6121,2623617367,858,500,375,how is the man positioned at the start of the video,standing,5,DO,13
+6142,6142,4845929158,1210,640,360,what was being shown on the screen,mouth talking,3,DO,62
+6163,6163,10467727335,1360,640,360,what is the relationship between the man in the girl in pink,parent offspring,1,DO,27
+6167,6167,4637735271,906,640,480,what was the colour of the man s shirt,black,5,DO,38
+6170,6170,7080108581,1260,640,360,in the middle of the video what did the boy in green do to the man behind him,turned around and looked,6,DO,68
+6183,6183,8787155053,2815,640,360,what is the relationship between the person and the baby,parent offspring,1,DO,38
+6188,6188,7526364640,2697,640,480,how did the man in stripped see the children clearly,wear glasses,8,DO,68
+6214,6214,7694986054,1911,640,360,what is the man next to the bed wearing,hospital gown,0,DO,16
+6224,6224,4880611877,2697,640,480,how does the person keep warm,put on blanket,3,DO,27
+6226,6226,8109777832,2492,640,360,what colour are the woman and the girl wearing,pink,0,DO,68
+6240,6240,4430422083,904,640,480,how did the boy kept himself warm,jacket,6,DO,68
+6276,6276,6996441724,1464,640,360,what colour is the girl wearing,green,3,DO,68
+6297,6297,3593365697,312,640,474,how are the people behind the man positioned around the room,standing,3,DO,58
+6301,6301,5188348585,1453,640,362,what is surrounding the liquor,liquor stand,7,DO,11
+6303,6303,7251069966,630,640,360,what colour is the person wearing,blue,4,DO,71
+6304,6304,3988313151,580,320,240,what event is occuring,birthday celebration,0,DO,77
+6309,6309,10376859826,1145,640,360,who are the presents for,lady in black,6,DO,27
+6325,6325,9935699345,639,640,360,what is the relationship between the woman in black and the woman playing on the high obstacle course,trainer trainee,1,DO,58
+6335,6335,8666185192,450,640,362,how does the boy position his legs before swinging,wide apart,8,DO,68
+6359,6359,5647081404,720,640,480,what was the animal on the child s shirt,horse,8,DO,68
+6376,6376,3118473217,870,640,360,what are the blue or green things some children are holding on to,shovels,3,DO,68
+6395,6395,4822565837,1764,640,362,which child was decorating the pastry,girl in green,8,DO,68
+6396,6396,5624778109,612,272,480,how is the dog positioned on the man s lap,sitting upright,0,DO,71
+6412,6412,5509677964,389,640,362,what is the baby wearing,swimming costume,6,DO,38
+6450,6450,5849071543,1102,640,360,what was the vehicle present,bicycle,6,DO,50
+6457,6457,5699922217,1399,640,480,who was the first person to start the swaying,central singer,6,DO,27
+6460,6460,3141642801,571,640,480,what is the relationship between the boys,friends,8,DO,22
+6466,6466,4651795201,1872,640,360,how are the people positioned around the table,sitting,9,DO,26
+6477,6477,6973757699,365,568,320,who was cycling,little girl,6,DO,68
+6485,6485,5880312109,902,640,360,which place are the kid and lady are at,garden,6,DO,68
+6589,6589,3626207014,1286,640,480,what is the relationship between the man and the babies,parent children,5,DO,27
+6613,6613,3969677780,2697,320,240,what is the man in black jacket holding,cup,5,DO,62
+6618,6618,5402233708,372,640,360,what is being shown in the video,living room,0,DO,27
+6621,6621,5508995205,1110,640,362,what colour was the lady wearing,black,7,DO,38
+6623,6623,5372042516,843,640,480,whose birthday party is this for,the girl in pink,0,DO,77
+6630,6630,3336623732,1278,640,480,what sort of pose does the boy do to the camera,showing his muscles,1,DO,68
+6635,6635,5832442216,540,640,360,what event is occuring,fencing,4,DO,58
+6686,6686,6781937922,543,640,362,what is the man trying to do in this video,locate their destination,7,DO,62
+6711,6711,2405004230,1710,640,480,what is the lady in black wearing,headset microphone,0,DO,16
+6733,6733,9072405003,448,640,1138,what was the colour of the cotton stick,blue,9,DO,1
+6741,6741,8283116453,1116,640,360,what sort of performance is this,suona,1,DO,58
+6766,6766,3305288577,780,640,480,what is the possible relationship between the man and the girl,father and child,6,DO,68
+6780,6780,5493350492,2697,640,480,what was the colour s on the man s socks,black and red,8,DO,68
+6782,6782,6237913346,1219,640,360,what is the baby wrapped in,blanket,6,DO,68
+6789,6789,3343269521,1858,640,480,what did the cat do towards the end,turned around,3,DO,1
+6841,6841,10309844035,960,640,360,what kind of room is this,office,1,DO,3
+6885,6885,4978371835,780,360,480,what is the relationship between the woman and the baby,parent offspring,6,DO,38
+6886,6886,5999090287,1099,640,362,what was the colour of the sleeveless dress at the start of the video,grey,3,DO,68
+6896,6896,5306556049,2232,640,480,what are the toys,animals,9,DO,68
+6906,6906,7033605719,390,640,360,what is the possible relationship between the man and the baby,parent offspring,5,DO,38
+6907,6907,3584252430,345,640,480,how do they warm up,stretch hands out,5,DO,23
+6924,6924,2482233944,2697,640,480,what is the relationship among the four men in the video,friends,4,DO,71
+6925,6925,4853075919,1170,640,360,how many people are there in the video,two,7,DO,68
+6927,6927,5647081404,720,640,480,what was the child holding,silver box,9,DO,68
+6962,6962,5925869325,1770,640,480,what is the relationship between the men,friends,1,DO,44
+6967,6967,5297426137,1227,640,360,what was the girl in grey holding at the end of the video,cup,6,DO,68
+6985,6985,5475182274,1786,640,360,what is the possible relationship between the man and the baby,father and offspring,2,DO,68
+7004,7004,4452638970,540,640,480,what does the man hold in his hand as he passed the badge to the boy,pen,8,DO,77
+7021,7021,2532161712,793,640,480,what is the relationship between the boy and the baby,siblings,3,DO,7
+7023,7023,4286880949,1052,480,360,what is the occassion seen in the video,birthday party,0,DO,68
+7036,7036,6279934011,1817,640,360,what is the relationship between the girl and man holding the deer sticker,parent offspring,5,DO,68
+7038,7038,9402994355,631,640,480,what is the baby bitting,toy,3,DO,38
+7042,7042,7824310242,337,640,360,what was attached to the baby's body,wires,3,DO,38
+7044,7044,7757567866,1615,640,360,what is the colour of the outfit worn by the lady,pink,4,DO,58
+7066,7066,4885355005,632,640,360,how is the man in blue walking out of the bush protect his head,helmet,9,DO,52
+7089,7089,4642870129,356,640,480,how did the boy protect his head from injury,helmet,0,DO,52
+7099,7099,6317085607,2020,640,480,what flag is placed on left side of the stage,american,4,DO,77
+7107,7107,6994417868,421,640,480,judging from the design what does the toy organ mimic,cat,2,DO,59
+7108,7108,2667165452,900,640,480,what is the lady in brown holding in her left hand,water bootle,10,DO,11
+7115,7115,13925904946,345,640,360,what colour was the paddle,black,8,DO,61
+7128,7128,6993049783,1322,640,360,what was the vehicle in the video,car,2,DO,52
+7156,7156,4458449046,538,640,480,what is the role of the man in brown,caddie,5,DO,52
+7165,7165,3584252430,345,640,480,how does the man warm up his ankles,rotate them,7,DO,23
+7205,7205,6824389173,533,568,320,what is the hair colour of the kid wearing a striped t shirt,blonde,0,DO,27
+7212,7212,2770243170,1162,640,480,what is the relation between the child and the person in yellow,parent offspring,4,DO,25
+7225,7225,7492345390,1379,640,360,what is the relationship between the lady and the baby,mother and child,0,DO,27
+7245,7245,5188348585,1453,640,362,how much liquor did he pour into the cup,14th glass,8,DO,11
+7295,7295,7344039494,775,640,360,how did the man in black position his left hand mos of the time,put in pocket,0,DO,5
+7298,7298,6462583199,2160,640,424,who is the main speaker,lady in flower dress,7,DO,58
+7327,7327,8069728449,1596,640,480,what is the video about,playing the guitar,3,DO,65
+7346,7346,6243138228,865,640,360,what is on the floor behind the baby,toys and clothes,6,DO,38
+7354,7354,3540508501,1632,640,480,who is proficient in using the gun,the man,12,DO,77
+7375,7375,6216509632,612,640,360,how many people are involved in the video,two,4,DO,68
+7391,7391,3383323177,1785,640,428,what is the colour of the dog,black,7,DO,16
+7408,7408,5460127828,653,640,480,how did the boy in red kept himself warm,jacket,8,DO,68
+7444,7444,4060545487,457,640,480,what is the relationship between the boy on the horse and the man holding the horse,trainer trainee,0,DO,67
+7464,7464,3988313151,580,320,240,what is the relation between the person in black and the boy in orange,parent offspring,5,DO,77
+7473,7473,8746344569,976,640,360,what the people tapping repeatedly on the white block they are holding,shaping the block,0,DO,77
+7478,7478,11400037054,1811,640,360,what event is occurring in this video,discussion,10,DO,62
+7491,7491,3439955661,462,320,240,what is the baby in blue looking at,the baby in white,1,DO,68
+7499,7499,5359417762,614,640,480,how is the boy positioned,on lady arms,7,DO,68
+7501,7501,6579160577,1096,640,480,how did the lady in black see the boy clearly,glasses,2,DO,59
+7530,7530,3765087719,2165,640,480,what is this video about,music performance,8,DO,65
+7540,7540,10437686463,587,640,1128,what is the relationship between the two girls,sibling,0,DO,68
+7550,7550,6973757699,365,568,320,how did the girl protect herself from getting her head injuried,wear helmet,2,DO,68
+7554,7554,3042965654,454,320,240,what is the relationship between the three men,colleagues,0,DO,49
+7568,7568,8632946304,973,640,1138,how did the boy protect himself with his activity,knee pads,1,DO,68
+7588,7588,4181802718,2520,320,240,how is the woman in white positioned at the start of the video,standing,5,DO,58
+7594,7594,5880312109,902,640,360,what is the relationship between the lady and the kid,parent offspring,0,DO,68
+7601,7601,8726215081,1621,272,480,what is the relationship between the baby and the woman in front,parent offspring,7,DO,68
+7604,7604,5826069843,612,640,360,what is the boy trying to do with the red boat,flip it over,0,DO,61
+7613,7613,6320611157,2220,640,480,what is the boy holding,microphone,0,DO,27
+7626,7626,3819750158,1302,640,480,what is the thing attached to the boy s cap,price tag,8,DO,52
+7661,7661,7587067930,735,640,360,what is the animal on the sofa,dog,8,DO,27
+7682,7682,8469860079,1448,640,360,what is the colour of the lady holding a clapperboard,blue,8,DO,23
+7749,7749,3593365697,312,640,474,whom is the man in yellow shirt talking to,interviewer,2,DO,58
+7783,7783,5678063296,2424,640,360,what is the person with green skirt holding in his left,microphone,5,DO,62
+7786,7786,3522190635,1068,640,480,what was the baby distracted by,bubbles,8,DO,38
+7793,7793,3753830144,544,640,480,what is the man using to write,chalk,0,DO,68
+7819,7819,3599210242,415,640,480,how did the man protect his head from injury,helmet,1,DO,50
+7825,7825,2786223802,316,640,360,how does the lady position herself as she walks backwards,facing the children,5,DO,68
+7883,7883,8105331297,1225,640,360,how did the baby kept himself warm,long sleeve clothing,3,DO,59
+7901,7901,6310337188,2160,640,1138,what is the baby wearing,diaper,6,DO,38
+7917,7917,11944072804,511,640,360,what is the occupation of the man in the vest standing under the plane,security personnel,5,DO,13
+7918,7918,8032967534,2190,640,480,what is the man in suit holding,microphone,4,DO,62
+7924,7924,11277683376,531,640,360,what is the relationship between the two boys,friends,0,DO,68
+7946,7946,4203080888,801,640,480,which room in the house is the girl at,living room,4,DO,68
+7951,7951,2525831823,2244,320,240,what sort of performance is taking place,singing,0,DO,58
+7967,7967,7888556496,685,640,480,how is the lady in blue positioned at the start of the video,squat down,3,DO,71
+7971,7971,3789179865,325,640,480,what is the role of the man in the background,caretaker,4,DO,66
+7975,7975,3621121750,1481,640,360,how is the man positioned,stand behind the baby,6,DO,16
+7979,7979,3425409935,2594,640,360,what is the relationship between the lady and kid,parent and child,2,DO,52
+7997,7997,6118838509,1380,480,360,what is the turtle eating in the middle of the video,leaf,8,DO,8
+8007,8007,3141642801,571,640,480,what is the boy in red holding throughout the video,snowboard equipment,9,DO,22
+8031,8031,6994417868,421,640,480,what is the orange thing,toy organ,0,DO,59
+8041,8041,2965378944,657,640,480,how did the lady ensured she can see the boys clearly,spectacles,5,DO,52
+8065,8065,3111307977,1467,640,480,how is the cat positioned at the start,standing on the table,3,DO,1
+8093,8093,5832442216,540,640,360,what are both of them wearing in the video,white costume,5,DO,58
+8103,8103,8111513362,1114,640,360,what is the relationship between the lady and the baby,mother child,4,DO,68
+8120,8120,8132052550,1345,640,1138,what is the relationship between the children,sibling,0,DO,68
+8130,8130,9036651505,437,640,480,what season is this,winter,6,DO,21
+8149,8149,10149430394,675,640,360,what is the relationship between boy in sunglasses and lady in purple shirt,parent offspring,1,DO,68
+8163,8163,3561135916,1397,640,360,what did the child take from the cake near the end,lollipop,5,DO,68
+8168,8168,8212602454,825,640,360,what was the man sitting in,cardboard box,11,DO,52
+8172,8172,3430723284,796,352,288,what is the relation between the man and the baby,parent offspring,3,DO,27
+8191,8191,3593365697,312,640,474,how does the bald man behind position his right hand at the start of the video,kept it in his pocket,5,DO,58
+8194,8194,3183346596,608,640,480,how did the man protect his eyes from the sun,sunglasses,5,DO,11
+8204,8204,4751951497,807,640,480,who are in the video,one boy and one girl,0,DO,68
+8229,8229,5386574125,891,640,360,what did the lady remove from the monitor,plastic,1,DO,62
+8241,8241,9132487788,1821,640,480,what is the possible relationship between the two men,friends,10,DO,58
+8242,8242,4608963318,2250,640,360,how did the man in white check the position of the microphone,bending it,7,DO,77
+8245,8245,6378153655,814,640,360,what is the animal shown in the video,parrot,3,DO,33
+8259,8259,12753577835,840,640,360,who threw the green balloon,boy in white,7,DO,27
+8280,8280,8906111356,1061,640,360,what animal is shown in the video,owl,3,DO,33
+8284,8284,2466853140,1224,640,480,what was the dog trying to catch at the beginning of the video,a ball,5,DO,71
+8299,8299,5875210125,564,480,640,how many people are involved in the video,two,6,DO,68
+8316,8316,3223951946,474,640,480,what is the relationship between the two people,friends,9,DO,58
+8347,8347,12532492544,570,640,480,what is the white thing covering the wooden bench,snow,3,DO,33
+8349,8349,7742310064,626,640,360,what is the animal shown in the video,bird,8,DO,33
+8368,8368,6901974982,1826,640,426,how did the boy keep himself warm,socks,0,DO,68
+8385,8385,4078892037,1450,640,360,what is the colour of the baby s shirt,orange,1,DO,38
+8392,8392,7823823944,1233,640,360,how did the man in blue protect his head from injury in the video,helmet,8,DO,71
+8394,8394,5292396210,420,640,360,how does the man in red adjust the position of his spectacles at the start,push with finger,6,DO,39
+8399,8399,6339181867,1843,640,360,what is the relationship between the kid and the boy standing outside,siblings,2,DO,38
+8439,8439,11342887364,318,352,288,what is the relationship between the man and lady,trainer trainee,3,DO,58
+8441,8441,6236724261,1283,640,360,what colour pants is the woman in black wearing,green,8,DO,27
+8447,8447,2704088930,1144,500,283,what is the relationship between the girl in pink and the boy in stripes,siblings,1,DO,68
+8488,8488,6320611157,2220,640,480,how is the boy keeping himself warm,socks,3,DO,27
+8492,8492,6026054776,659,640,480,what event is occuring,celebration,4,DO,68
+8496,8496,8268305522,900,640,480,what is the animal shown in the video,penguins,5,DO,78
+8507,8507,2925748611,355,640,480,what is the device shown in the video,phone,4,DO,3
+8518,8518,7530704768,2525,640,360,what is a possible relationship between the woman and the baby,parent offspring,5,DO,38
+8521,8521,6036834934,439,320,568,what was the colour of the lady s apron,green,8,DO,11
+8546,8546,11794871936,438,512,288,what is the color of the child s shirt who is standing,black,2,DO,27
+8553,8553,5929534589,345,640,360,what is being tied to the back of the car,xtra tyre ,5,DO,52
+8570,8570,6875806550,780,640,480,what is the possible relationship between the man and the baby,parent offspring,3,DO,38
+8581,8581,5080289573,396,640,480,what did the girls fill their hats with,water,10,DO,68
+8583,8583,3692009167,1116,640,480,what is the colour of the shirt the child is wearing,orange,5,DO,27
+8586,8586,3584252430,345,640,480,how did the man make sure that the girl is following the warm up exercise,watch her closely,2,DO,23
+8604,8604,8029969533,1921,604,1072,what is the picture shown on top of the girls on the wall,restaurant s logo,1,DO,58
+8618,8618,5372042516,843,640,480,what is the boy wearing on his head,birthday hat,3,DO,77
+8622,8622,6781937922,543,640,362,what is the man wearing on his neck,id card,0,DO,62
+8636,8636,2969688375,505,320,240,what is the relationship between the kid and the lady,parent offspring,0,DO,68
+8638,8638,3381752581,1530,640,480,what animal is this,cat,2,DO,31
+8642,8642,5162091958,1479,640,360,what is the relation between the girls,siblings,2,DO,77
+8657,8657,3571539122,415,320,240,what is the relationship between the people on stage,friends,5,DO,58
+8661,8661,2639225467,345,640,480,what is the relationship between the men,friends,8,DO,67
+8680,8680,7530704768,2525,640,360,how did the lady made sure she can see the baby clearly,spectacles,3,DO,38
+8686,8686,5883403537,541,640,480,what is the baby covered with,blanket,7,DO,38
+8691,8691,8575896129,2056,640,384,what is the relationship between the lady and the child,parent offspring,4,DO,68
+8697,8697,4039239344,360,640,428,what is the animal shown in the video,duck,5,DO,9
+8736,8736,5873037185,343,640,360,what is the color of the shirt the lady is wearing,black and white,3,DO,71
+8753,8753,6991460472,320,640,360,what is the relationship between the kid and the lady,parent offspring,3,DO,52
+8780,8780,4444103383,1131,640,360,what is the relationship between the people playing different instruments,friends,0,DO,65
+8791,8791,6994417868,421,640,480,what colour is the stop button,blue,4,DO,59
+8796,8796,6029706386,1050,640,480,what is the relationship between the baby and the man,father and child,1,DO,38
+8801,8801,3020343223,1502,640,480,what is the likely relationship between the musicians on the stage,band members,3,DO,65
+8825,8825,6781937922,543,640,362,what is the man in black and the lady in balck holding in their right hands,pen,5,DO,62
+8847,8847,4440840337,337,480,360,what color is the girl s skirt,red,6,DO,11
+8861,8861,4188739935,2116,360,480,what is the boy riding,mini motorcycle,9,DO,40
+8905,8905,8993709862,848,640,360,what is the use of the camera that is held by one of the lady,take photos of their foots,5,DO,11
+8906,8906,6095248978,2250,640,360,what is the relation between the man and the children,parent offspring,5,DO,68
+8936,8936,8870296245,521,640,480,what is the relationship between the big and the smaller pigs,parent offspring,2,DO,34
+8937,8937,3205604574,2697,640,480,what were the genders of the children,one boy and one girl,5,DO,68
+8968,8968,4452638970,540,640,480,what does the boy wear on his head,hat,9,DO,77
+8993,8993,3375064270,324,640,360,how did the man in checkered shirt protect his ears from the cold,wear hat,2,DO,21
+8996,8996,11576401024,1051,640,360,how is the man with a santa hat positioned in the room,facing camera,9,DO,68
+8998,8998,3060640279,790,320,240,what is the relation between the kid and the man,parent offspring,2,DO,38
+9002,9002,5542785759,645,640,360,who lift the yellow liquid from the table near the end,guy in black,8,DO,5
+9011,9011,5624778109,612,272,480,what is the pet of the man,dog,7,DO,71
+9017,9017,2407193002,1637,320,240,what is the boy in yellow playing with,guitar,6,DO,27
+9020,9020,10278239024,1218,640,480,how is the baby positioned on the floor,laying,4,DO,38
+9038,9038,5849071543,1102,640,360,how did the people protect their head from injury,wear helmet,0,DO,50
+9041,9041,11944072804,511,640,360,what is the occupation of the man in shirt,security personnel,0,DO,13
+9045,9045,2411633466,637,500,281,what does the man in black hold in his hands,controller,7,DO,49
+9054,9054,4766274786,979,640,360,what is a possible relationship between the baby and the girl,siblings,4,DO,68
+9076,9076,6895329002,718,640,1138,what animal is shown in the video,dog,10,DO,71
+9085,9085,5918453123,1461,640,360,what are the two boys sitting on,chair,9,DO,16
+9119,9119,10355341433,822,512,288,what is the relationship between the two boys,siblings,0,DO,68
+9121,9121,4775972536,887,640,360,what is the possible relationship between the boys,siblings,10,DO,68
+9154,9154,8028122153,1017,640,480,what is the setting,restaurant,6,DO,77
+9173,9173,12884491894,850,640,360,what is the child playing with,toy car,1,DO,64
+9176,9176,9938542916,824,640,360,what instrument is being played,guitar,1,DO,38

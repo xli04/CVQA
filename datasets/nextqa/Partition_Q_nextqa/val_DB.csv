@@ -1,0 +1,278 @@
+Unnamed: 0,Unnamed: 0.1,video,frame_count,width,height,question,answer,qid,type,bigCate
+4,4,2510696559,2117,640,480,is the boy entertained or bored by the bicycle,entertained,4,DB,50
+20,20,2503404966,840,640,480,does the boy move the toy slowly or fast,slowly,9,DB,64
+35,35,8024853715,486,640,360,are the girls enjoying themselves playing with the sand,yes,8,DB,68
+101,101,5875535585,2291,640,360,is the place well lighted or dim,dim,2,DB,3
+128,128,2400171624,996,500,375,is this activity dangerous,yes,3,DB,22
+149,149,2782658657,787,640,360,are both girls running in the same or different directions,different,3,DB,68
+174,174,4260763967,1017,640,480,is the yellow boy trying to build a toy,yes,3,DB,68
+197,197,7492398760,2697,640,360,are the people enjoying themselves while playing outdoors,yes,6,DB,68
+243,243,4674481985,734,640,480,is the man scared as he jumps into the water,yes,4,DB,58
+247,247,5145526755,1675,640,360,is the lioness with the head up trying to look out for danger,no,3,DB,52
+271,271,4564478328,1410,640,360,are the two lionesses really fighting or just playing around at the end of the video,fighting,3,DB,57
+341,341,3063380173,515,500,375,is the place well lighted or dim,dim,3,DB,1
+368,368,8318310610,663,640,430,are the girls likely students or working adults,students,2,DB,58
+385,385,13515224395,1216,640,360,is the lady shortsighted,yes,2,DB,71
+386,386,4336654741,2697,640,480,is the lady shortsighted,yes,5,DB,68
+404,404,5858985747,349,604,1072,is the baby in yellow trying to learn how to walk properly,no,1,DB,27
+506,506,4698622422,1252,640,480,did the boy hurt himself badly when falling,no,4,DB,68
+507,507,2940373590,306,640,480,is this a slow or a fast dance,slow,4,DB,16
+523,523,2599937944,449,500,375,did the 3 ladies turned away from the man in black,no,4,DB,58
+552,552,10607095936,1080,640,360,does the cross on the lady s costume make her a good or bad character,good character,1,DB,58
+558,558,2400715506,414,320,240,does the animal look threatening to human safety,no,2,DB,20
+560,560,3194558043,691,640,480,is the man on the dance floor a skilled dancer,yes,0,DB,65
+583,583,3804148568,2697,640,480,are the two people practising fighting with swords professionals or beginners,beginners,2,DB,77
+619,619,7330294814,2298,640,360,are the ladies trying to play with the baby,yes,4,DB,27
+653,653,4263096481,637,320,240,is the man proficient in cutting the fish,yes,2,DB,77
+666,666,2461993294,1999,640,480,are the two men experienced in performing on the instruments,yes,3,DB,46
+671,671,8318310610,663,640,430,is the performance well coordinated enough,no,4,DB,58
+694,694,7572859950,497,640,1138,does the baby converse in the video,no,2,DB,52
+700,700,3550839192,1050,640,362,is the baby curious about the train,yes,4,DB,7
+701,701,3455926688,549,640,360,did the kite crash hardly on the ground at the end of the video,yes,2,DB,58
+706,706,4698622422,1252,640,480,is the boy playing in a park or a backyard of a house,backyard,0,DB,68
+717,717,3708066257,477,640,480,are the man and the lady having fun dancing together,yes,3,DB,31
+719,719,2716277960,402,500,375,is the log stable enough to withstand the weight of the two men,yes,6,DB,50
+782,782,2510696559,2117,640,480,are the people walking interested in the boy as he cycles,no,9,DB,50
+808,808,2547885226,406,640,480,is the kid scared of the toy dinosaur,no,7,DB,68
+811,811,2573424030,1470,320,240,is the dog domesticated or wild,domesticated,1,DB,25
+832,832,5333075105,1168,640,480,is the snow on the ground thin or think,thick,5,DB,39
+848,848,4857781123,1101,640,1138,is the dog domesticated or wild,domesticated,7,DB,64
+860,860,5129152550,2697,640,480,are the people behind the man speaking attentive,yes,10,DB,58
+869,869,2559262403,2158,320,240,are the pugs domesticated or wild,domesticated,3,DB,71
+922,922,8241491518,891,640,480,is the man experienced in clearing the trees and their branches,yes,4,DB,39
+938,938,6244382586,619,640,360,is the brown horse or the black horse went first,brown horse,2,DB,67
+945,945,4092992100,461,640,480,is the activity challenging or boring,challenging,3,DB,50
+956,956,3194558043,691,640,480,can the man on the dance floor balance on his hands,yes,2,DB,65
+966,966,2771402761,1460,640,480,is the kid proficient in swimming,no,1,DB,68
+974,974,2885091387,1065,640,480,is it safe for the car to drive through such deep puddles of water if the depth is unknown,no,3,DB,52
+996,996,5296635780,652,640,480,is this a wedding,yes,0,DB,58
+1009,1009,11566930393,872,640,480,did the boy seem to be interested in the new toy at the end,yes,1,DB,64
+1026,1026,3359075894,414,640,480,did the man in grey managed to hit the ball,yes,7,DB,15
+1048,1048,2435100235,1906,640,480,is the man wearing yellow uniform cycling on a trishaw following the cycle ahead in the same direction,yes,5,DB,50
+1053,1053,5349969207,1193,640,360,is the black dog sitting in front of the electrical heater as active as the other two dogs,no,3,DB,71
+1085,1085,2584172238,719,320,240,was the boy in blue wearing a hat when playing,no,10,DB,38
+1089,1089,4942054721,645,640,360,do most of the goats prefer to move as one group or individually,group,2,DB,66
+1099,1099,11566980553,1721,640,480,is the lady holding on to her phone the entire time she was looking at the present,yes,4,DB,27
+1116,1116,6163877860,2160,640,360,did the baby look experienced in standing up yet,no,2,DB,27
+1131,1131,6762389913,1371,640,360,does the brown dog like to be licked by the black dog,yes,2,DB,71
+1136,1136,2977504625,384,640,360,is the car manual or electrically powered,manual,1,DB,68
+1151,1151,8457210773,1976,640,480,are the dogs playing or fighting,playing,1,DB,71
+1187,1187,5607805258,718,640,1138,is the dog playing or fighting with the cat,fighting,2,DB,71
+1225,1225,11584566583,376,640,480,does the lady speaking has good nake eyesight,no,2,DB,58
+1226,1226,4146348376,1585,640,480,are the men having a lighthearted or serious conversation with one another,lighthearted,1,DB,77
+1258,1258,5026660202,2697,640,480,are the band performing or practising,performing,3,DB,65
+1342,1342,10607095936,1080,640,360,is the man in the vest a member of the audience or a performer,audience,3,DB,58
+1351,1351,13515224395,1216,640,360,is the woman caressing the dog gently or harshly,gently,9,DB,71
+1353,1353,9528990839,427,640,480,is the car moving,no,1,DB,52
+1394,1394,3843551232,696,480,360,is the black dog trying to play with the black and white dog s tail,yes,2,DB,71
+1425,1425,2669452260,456,640,480,is the guy wearing sunglasses to peek at girls,no,2,DB,52
+1451,1451,7492398760,2697,640,360,is it safe for the man to swing the baby girl for long period of time,no,1,DB,68
+1467,1467,4825843801,710,320,240,are the penguins walking or playing in snow,walking,0,DB,78
+1517,1517,2833209794,331,640,480,do all the people board the escalator on the same side,no,10,DB,39
+1532,1532,5026660202,2697,640,480,are the band performing passionately or dully,passionately,5,DB,65
+1547,1547,7987845241,1511,640,1138,is the dog struggling during the injection,no,3,DB,71
+1617,1617,4564478328,1410,640,360,are the lionesses and lions wild or captive,wild,4,DB,57
+1657,1657,7416295940,2388,640,384,is the dog domestic,yes,4,DB,68
+1672,1672,3192668394,2079,320,176,are the group of people relaxing and having conversations together,yes,1,DB,44
+1673,1673,3550839192,1050,640,362,does the baby s eye keep focussing on the train s movement,yes,3,DB,7
+1776,1776,8277866423,829,640,360,is the brown dog happy or sad that the black dog is snatching its bone,sad,2,DB,71
+1783,1783,3063380173,515,500,375,does the kittens look like they are entertained or bored by the container,entertained,1,DB,1
+1824,1824,6011836129,1447,480,360,did the women move their legs,no,2,DB,5
+1847,1847,6168716346,949,640,360,are these boys taking part in any activity for drawing,yes,2,DB,68
+1859,1859,8318310610,663,640,430,do the girls look like they having practiced for a long time for this performance,no,0,DB,58
+1867,1867,8547321641,327,640,362,was the man wearing any shoes when watching the baby,no,6,DB,38
+1876,1876,2712662377,1048,640,480,are the turtles kept behind a fence,yes,6,DB,8
+1880,1880,4190655097,1290,640,480,did the cat look happy to be carressed in its cot,no,1,DB,1
+1892,1892,2940373590,306,640,480,can the two people coordinate well wihile dancing,yes,7,DB,16
+1895,1895,4388652400,1785,640,480,is the black dog pet or street dog,pet,4,DB,71
+1899,1899,8225502382,1468,640,360,is the man in dark green experienced in doing bicycle tricks,no,5,DB,50
+1935,1935,6142416815,1267,604,1072,was the baby wearing socks or is barefooted while in the chair,socks,5,DB,25
+1941,1941,5145526755,1675,640,360,is this a safe place to be at right now,no,5,DB,52
+1945,1945,2990321092,633,640,480,is this process of eating more difficult for the two men,yes,1,DB,70
+1950,1950,9565310990,1066,640,360,is the baby good at crawling on the ground,yes,2,DB,38
+2076,2076,6896884547,1440,640,360,is the baby enjoying her time playing with the ball,yes,1,DB,68
+2105,2105,2940373590,306,640,480,are the two people enjoying themselves,yes,3,DB,16
+2112,2112,4092992100,461,640,480,are the boys well geared for the challenging activity,yes,1,DB,50
+2149,2149,2726497009,1575,640,480,is the trail smooth,no,1,DB,50
+2154,2154,2461993294,1999,640,480,is the performance engaging enough to catch the attention of the audience,yes,1,DB,46
+2159,2159,3445431963,1276,640,480,is the diver alone,no,6,DB,58
+2193,2193,2559262403,2158,320,240,are the pugs playing or fighting with each other,playing,2,DB,71
+2204,2204,2736413196,1617,352,288,did the man in black look focussed or distracted in the conversation,focused,1,DB,55
+2230,2230,8107573462,406,640,360,is the kid skilful in skiing,no,3,DB,68
+2292,2292,4244817395,1683,640,480,is the boy able to converse meaningfully at this age,no,2,DB,68
+2296,2296,2705374471,1556,320,240,is the boy good at catching the toy he tossed,no,8,DB,68
+2304,2304,8594314852,377,640,360,did the girl in pink fall,no,9,DB,68
+2322,2322,4483447009,775,640,480,are the two ducks the same kind,yes,2,DB,9
+2325,2325,7691172922,1454,640,480,is the dog wild or domesticated,domesticated,3,DB,71
+2332,2332,9217939684,1660,512,288,is the baby able to walk for a long distance,no,4,DB,38
+2345,2345,9217939684,1660,512,288,is the baby determined in learning to walk,yes,11,DB,38
+2353,2353,8505893258,888,640,360,did the lady in pink kissed the boy s hand,no,4,DB,68
+2392,2392,3376544720,2158,352,288,is it safe for the man s back to ride on such a ride for long periods of time,no,3,DB,64
+2400,2400,2716277960,402,500,375,is the wooden bridge safe for use,yes,0,DB,50
+2415,2415,6253433310,680,640,480,is the boy swimming or playing around,playing,5,DB,68
+2429,2429,5987365500,714,480,640,is the girl the only child in the video,yes,9,DB,68
+2433,2433,5056964274,924,640,480,is the baby enjoying drinking juice from the pack,yes,1,DB,68
+2481,2481,2877270840,780,640,480,does the man finish the wine,no,9,DB,44
+2483,2483,3784543730,852,640,480,is the black shirt cyclist proficient at riding a bike or is he a new rider,proficient,0,DB,50
+2485,2485,2877270840,780,640,480,is the man married,yes,2,DB,44
+2516,2516,6329077812,1835,640,360,is the baby old enough to converse meaningfully,no,4,DB,38
+2540,2540,6542914065,300,640,360,are the running people training their reflex,yes,3,DB,49
+2543,2543,2940373590,306,640,480,are they dancing together,yes,2,DB,16
+2626,2626,5877508141,583,640,480,did the boy manage to slide down the slide in the duration of the video,no,2,DB,68
+2671,2671,2461993294,1999,640,480,are the performers practising or performing,performing,8,DB,46
+2686,2686,3843551232,696,480,360,did the black and white dog look calm when it laid there,yes,4,DB,71
+2692,2692,10109097475,2698,640,360,is the aircraft going to takeoff,no,3,DB,13
+2697,2697,3708066257,477,640,480,are the people performing for an audience or dancing alone,dancing alone,0,DB,31
+2699,2699,5116088152,1205,640,360,can the baby eat fruits by himself without help,yes,5,DB,38
+2703,2703,8403741210,1327,640,360,is the room well lighted or dim,dim,2,DB,68
+2727,2727,2400171624,996,500,375,is the skier experienced in skiing,yes,8,DB,22
+2728,2728,5467727317,1230,640,360,are the elephants very active or mild,mild,1,DB,63
+2734,2734,2793260225,558,500,375,were the people having fun,yes,2,DB,58
+2744,2744,5406108447,1337,640,360,does the girl pay attention to other toys rather than the towel,no,2,DB,38
+2754,2754,2868183184,1551,500,375,is the girl experiencing the cooking,no,10,DB,58
+2757,2757,6642268693,1143,640,480,do you think the dog likes the toy,no,2,DB,71
+2824,2824,5533380417,403,640,362,did the baby move its right feet first,no,6,DB,16
+2866,2866,2567843468,572,320,240,is the girl trying to catch the starfish again near the end,yes,4,DB,38
+2884,2884,3851961428,2062,640,480,are they training or doing actual diving,training,3,DB,68
+2894,2894,2990321092,633,640,480,are the two men competing for something,yes,6,DB,70
+2895,2895,8493226484,968,640,1138,does the boy look bored or entertained by the woman,entertained,3,DB,68
+2896,2896,2833209794,331,640,480,is the escalator moving upwards or downwards,upwards,4,DB,39
+2907,2907,2599937944,449,500,375,did the man in black had contact with the water,yes,9,DB,58
+2914,2914,7536230796,1773,640,1138,can the boy walk by himself properly,yes,3,DB,68
+2929,2929,3105728894,1512,640,480,are they doing rehearsals or actual performance,rehearsal,5,DB,50
+2959,2959,6025238212,758,640,360,are the girls and the man playing or fighting each other at the end of the video,playing,2,DB,68
+2962,2962,4138579400,601,640,480,was the boy talking to himself or someone,person recording the video,2,DB,68
+2969,2969,4147398280,1716,480,360,is the boy skilled in solving rubik cube,no,8,DB,68
+2971,2971,5145526755,1675,640,360,is the lion trying to hide away from the lionesses,no,7,DB,52
+3005,3005,2957808913,598,640,480,is the man in black jacket the only performer,yes,9,DB,65
+3006,3006,3524939594,436,320,240,is it safe for the people to play like this in a crowded area like this room,no,1,DB,16
+3013,3013,2510696559,2117,640,480,is the boy proficient at doing stunts with his bicycle,yes,3,DB,50
+3022,3022,3469864014,867,320,240,did the cats eat the fish during the course of the video,no,3,DB,1
+3029,3029,2705374471,1556,320,240,did the shoe get thrown up and land on the baby s face intentionally or by accident,intentionally,2,DB,68
+3035,3035,2920952624,825,352,288,is the meal portion big or small,big,5,DB,31
+3066,3066,3026084730,2205,640,480,is the man in the middle giving a formal speech or giving a performance,formal speech,3,DB,58
+3079,3079,2932897373,558,500,375,is this a relatively busy or quiet street,quiet,2,DB,23
+3099,3099,3455926688,549,640,360,did the man in black look experienced in flying the kite,no,0,DB,58
+3101,3101,2821968703,900,320,240,is the man procient at water skiing,no,2,DB,73
+3103,3103,3124551255,1962,640,474,is the boy fighting with the dog,no,1,DB,68
+3113,3113,2454242177,1574,320,240,is the dog of any danger to the baby,no,8,DB,38
+3119,3119,2679328607,1047,320,240,is the girl interested in playing with the toy,no,12,DB,38
+3153,3153,4199369046,1717,640,360,did the lady in black look nervous in front of everyone,no,4,DB,16
+3164,3164,3846475848,2138,640,480,is the ferret enjoying being covered with towel,no,10,DB,43
+3179,3179,7364407194,312,640,424,were the babies wearing hats when lying down,no,2,DB,38
+3180,3180,3345608051,2250,640,480,are the dogs domesticated or wild,domesticated,2,DB,71
+3181,3181,3452354871,511,640,360,did the bird fly away,no,8,DB,33
+3189,3189,5433090067,607,480,640,did the girl fall,no,7,DB,68
+3202,3202,4882414082,1350,640,480,is it hygienic for the baby to eat from the table,no,1,DB,16
+3217,3217,6896884547,1440,640,360,is the baby energetic or dull,energetic,7,DB,68
+3221,3221,8277866423,829,640,360,are the dogs sharing the bone,no,4,DB,71
+3232,3232,5658916668,660,640,1138,did the man sliding downslope fall badly on the ground,no,4,DB,21
+3236,3236,4603484665,1045,640,480,are the dogs domesticated or wild,domesticated,4,DB,71
+3250,3250,6356067859,1070,640,480,are the children scared at the horse,no,3,DB,67
+3265,3265,3112351937,448,640,480,was the man with flippers wearing an oxygen tank when swimming,yes,1,DB,58
+3279,3279,4249756405,774,320,240,is the lady listening or teaching the man playing the guitar,listening,4,DB,65
+3296,3296,4942054721,645,640,360,are all the goats clustered together,no,6,DB,66
+3302,3302,3708066257,477,640,480,do the people know the dance routine well,yes,6,DB,31
+3307,3307,5421648216,1290,640,360,are the sheeps free to move around or are their actions restricted,restricted,3,DB,66
+3368,3368,8188651630,571,640,480,is the cat being rough towards the colourful sock,no,2,DB,1
+3377,3377,8464056582,1340,640,360,is the baby experienced in crawling,no,3,DB,71
+3400,3400,3441428429,2697,640,480,are both skaters performing the same or different routines,same routine,11,DB,58
+3404,3404,3112351937,448,640,480,are the two people swimming,yes,7,DB,58
+3411,3411,8627074061,2697,640,360,is the girl in grey having an arts and craft lesson,yes,0,DB,77
+3421,3421,2559262403,2158,320,240,are the pugs close to one another,yes,9,DB,71
+3444,3444,4083875373,1621,360,480,is the girl excited or bored,excited,2,DB,62
+3452,3452,2987766537,497,500,375,is the baby having fun,no,5,DB,38
+3508,3508,3741143820,332,640,480,are the people on stage performing a play,yes,2,DB,58
+3514,3514,3763643225,1073,640,480,is the boy able to converse meaningfully at this age,no,4,DB,68
+3523,3523,4485707628,1933,352,288,are the dogs playing or fighting,playing,2,DB,71
+3525,3525,6159637889,2250,640,1138,is the baby resting or playing,resting,0,DB,25
+3539,3539,10597533885,1728,640,360,does the baby try to pick up the toy towards the end,yes,3,DB,38
+3541,3541,2434859163,615,500,375,was the lady wearing a cap when watching the polar bear swim,yes,2,DB,72
+3645,3645,2976913210,542,640,480,is the man proficient in riding the vehicle,no,2,DB,40
+3665,3665,3469864014,867,320,240,are the cats wild or domesticated,domesticated,4,DB,1
+3667,3667,2984974097,899,500,375,is the girl experienced in cycling,no,3,DB,52
+3677,3677,3861485381,2686,640,480,are these leopards wild or domesticated,wild,0,DB,76
+3689,3689,2833209794,331,640,480,is the man in black wearing glasses throughout,yes,5,DB,39
+3694,3694,3452354871,511,640,360,did the man step on the bird,no,7,DB,33
+3698,3698,6898821807,585,640,480,is the baby enjoying what the boy does to him,no,5,DB,27
+3703,3703,2793260225,558,500,375,was the water deep,yes,1,DB,58
+3718,3718,13569831214,1664,640,480,are these people professional in skiing,yes,1,DB,39
+3733,3733,5349969207,1193,640,360,was the black dog wearing a collar when it was resting in front of the fan,no,6,DB,71
+3743,3743,6205856607,978,272,480,does the girl seem more scared or excited to play with the horse,excited,11,DB,68
+3752,3752,2503404966,840,640,480,what does the boy do when the toy runs into the door or wall in the middle,stand up slightly to push,8,DB,64
+3753,3753,2868183184,1551,500,375,is the kid proficient in making food,no,0,DB,58
+3792,3792,4010069381,369,640,480,are the men focused or distracted in the work they are doing,focused,5,DB,58
+3838,3838,11541421563,2403,640,360,are the boy and girl reading the verse from the score,yes,4,DB,27
+3857,3857,11541421563,2403,640,360,are the people surrounding them getting entertained,yes,3,DB,27
+3858,3858,3105728894,1512,640,480,is the stage temporary,yes,3,DB,50
+3923,3923,9612838272,453,640,360,did the boy or the girl slide down first,boy,5,DB,68
+3932,3932,3456030972,755,640,480,are the children doing their own assignment or listening to the teacher teach at the moment,doing own assignment,3,DB,68
+3937,3937,13569831214,1664,640,480,are the two ladies happy by being successful skiing down the snow,yes,3,DB,39
+3946,3946,4083875373,1621,360,480,is the girl performing or dancing casually,dancing casually,7,DB,62
+3961,3961,4658396458,2160,640,424,is the baby bored or entertained by the toys in front of her,entertained,4,DB,7
+3994,3994,3131380536,2007,640,480,does the child like the yogurt,yes,5,DB,25
+3995,3995,4190655097,1290,640,480,is the cat domesticated or wild,domesticated,4,DB,1
+4004,4004,4190655097,1290,640,480,did the cat hurt the man badly by scratching and biting him,no,2,DB,1
+4017,4017,3164519967,1090,640,480,does the baby look comfortable in the arms of the old lady,yes,2,DB,27
+4063,4063,2857132732,726,320,240,is the child curious when the man is showing him how to play the instrument,yes,3,DB,38
+4109,4109,5237219621,2680,640,360,were the people indoors,yes,3,DB,27
+4118,4118,4420239986,669,640,480,is the dog and cat fighting or playing with each other,fighting,4,DB,71
+4141,4141,3814690167,453,640,480,are the people play the musicals professionally or casually,casually,4,DB,27
+4145,4145,4147398280,1716,480,360,does the boy manage to solve the rubik at the end of the video,no,5,DB,68
+4171,4171,3861485381,2686,640,480,did the last leopard go in the forest immediately when the previous two have done so,no,4,DB,76
+4242,4242,3935853204,943,640,480,did the girl in black use her hands to zoom in and zoom out of the screen,yes,2,DB,62
+4328,4328,3151715056,1895,640,480,are the people enjoying while singing,yes,4,DB,68
+4337,4337,5349969207,1193,640,360,is this happening in a study or a living room,living room,1,DB,71
+4350,4350,7651639778,1963,640,480,does this look a fun activity,no,9,DB,58
+4356,4356,11966080214,1531,640,1138,did the girl enjoy playing the toy in this video,yes,11,DB,68
+4382,4382,3303565503,1115,480,640,are they posing for a photo shoot,yes,1,DB,5
+4431,4431,2535384528,378,640,480,was the man in black following the movement of the golf ball,yes,3,DB,7
+4506,4506,6142416815,1267,604,1072,is the baby awake or sleeping,sleeping,0,DB,25
+4521,4521,3345608051,2250,640,480,are the dogs playing or fighting,fighting,0,DB,71
+4543,4543,13569831214,1664,640,480,did any of them fall during skiing,no,5,DB,39
+4547,4547,3456030972,755,640,480,is the boy focussed or distracted in the class,distracted,1,DB,68
+4553,4553,6617533993,1384,640,1138,are they two kids playing with toys on the floor,yes,1,DB,68
+4565,4565,2857132732,726,320,240,is the man teaching the kid to play instrument,no,2,DB,38
+4571,4571,11670386946,998,640,360,does the man with brown hat seem interested in the big silver aeroplane exhibition,yes,2,DB,13
+4600,4600,4272084125,732,640,480,did the woman manage to open the bottle in the duration of the video,no,3,DB,11
+4631,4631,4857781123,1101,640,1138,is the dog focused or distracted away from the toy,distracted,3,DB,64
+4648,4648,5549243726,527,640,360,is the baby bored or entertained by the girl,entertained,4,DB,27
+4663,4663,11966080214,1531,640,1138,does the girl stay interested in the toy for a long time,yes,5,DB,68
+4677,4677,8312058649,774,640,1138,did the baby cry while he was alone on the chair,no,5,DB,25
+4694,4694,8457210773,1976,640,480,did the brown dog wear a collar when playing with the black dog,yes,4,DB,71
+4696,4696,4857781123,1101,640,1138,did the dog eventually get the toy,no,1,DB,64
+4709,4709,4263096481,637,320,240,judging from the video is the man cutting the fish in the kitchen or outdoors,outdoors,3,DB,77
+4722,4722,3562017845,1200,640,428,were the birds holding anything in their mouth while moving,no,5,DB,33
+4730,4730,3626788516,337,320,240,was the woman in brown wearing a necklace when holding the crocodile,yes,8,DB,69
+4761,4761,2567843468,572,320,240,does the girl holds special attraction towards the starfish toy,yes,0,DB,38
+4794,4794,8254300526,1104,640,1138,is the baby able to stand up on its own,no,2,DB,38
+4812,4812,3441428429,2697,640,480,are the skaters beginners or professionals,professionals,0,DB,58
+4838,4838,4443526735,472,480,640,did the baby cry in the video,no,7,DB,25
+4845,4845,3708066257,477,640,480,is the man good at leading the dance,yes,4,DB,31
+4865,4865,2679328607,1047,320,240,do the children pay attention towards the man reading the book,no,6,DB,38
+4880,4880,2871995580,2697,500,375,are the people in a house,yes,10,DB,27
+4905,4905,9498159305,1275,640,360,is the man married,yes,0,DB,78
+4908,4908,2726497009,1575,640,480,is the second female bike rider confident in riding down the slope,no,4,DB,50
+4939,4939,11566930393,872,640,480,did the boy take out the new toy all by himself,no,0,DB,64
+4959,4959,5467727317,1230,640,360,is the elephant trying to go anywhere,no,3,DB,63
+4985,4985,8318310610,663,640,430,are the girls performing for fun or for work,fun,3,DB,58
+5005,5005,6896884547,1440,640,360,is the baby able to converse meaningfully at this age,no,2,DB,68
+5013,5013,5017166671,2697,640,480,are they performing indoors or outdoors？,indoors,5,DB,16
+5054,5054,6297019062,1746,640,360,are the babies sitting indoor or outdoor,outdoors,5,DB,38
+5065,5065,2871995580,2697,500,375,was the boy wearing a cap when playing with the ball,yes,3,DB,27
+5066,5066,4147398280,1716,480,360,is the boy focused when trying to solve the rubik s cube,yes,0,DB,68
+5082,5082,13515224395,1216,640,360,does the dog look happy being patted continuously by the lady,yes,4,DB,71
+5096,5096,7059877301,918,640,480,is the dog playing or drinking water from the box with water,both,4,DB,71
+5098,5098,2442307875,515,640,480,are the curtains drawn open at the end,no,4,DB,68
+5161,5161,4882821564,2697,640,480,was the boy wearing shoes when unwrapping the present,no,7,DB,27
+5201,5201,2567843468,572,320,240,is the girl enjoying herself playing in the pool,yes,5,DB,38
+5226,5226,3263908208,300,640,360,does the wind seems to be strong,no,8,DB,61
+5228,5228,7442562474,598,640,480,are the kittens domesticated or wild,domesticated,3,DB,1
+5270,5270,6860322796,1285,640,360,are the man and the dogs having fun in the snow,yes,3,DB,71
+5289,5289,2977504625,384,640,360,was the boy who is pushing the car wearing black shorts,no,4,DB,68
+5290,5290,7536230796,1773,640,1138,is the boy focused or distracted from the tv,distracted,1,DB,68
+5296,5296,3441428429,2697,640,480,is the performance coordinated well,yes,3,DB,58
+5299,5299,11566980553,1721,640,480,is the boy happy with the present he received,yes,11,DB,27
+5318,5318,3462517143,722,640,480,do both dogs play within the container,no,7,DB,71
+5333,5333,2987766537,497,500,375,is the baby at a comfortable position,no,2,DB,38
+5336,5336,10309542255,2566,640,480,are the animals being aggressive here,yes,0,DB,56

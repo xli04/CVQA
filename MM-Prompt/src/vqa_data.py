@@ -113,7 +113,7 @@ class VQAFineTuneDataset(Dataset):
         self.cate_set = set()
         for source in self.sources:
             # Load task-specific data
-            data_info_path = dataset_dir.joinpath(f'vqa/Partition_Q_reverse/{source}_'+f'{task}.json')
+            data_info_path = dataset_dir.joinpath(f'vqa/Partition_Q/{source}_'+f'{task}.json')
 
             with open(data_info_path) as f:
                 _data_info_dicts = json.load(f)
