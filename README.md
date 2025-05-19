@@ -62,12 +62,12 @@ python download_backbones.py
 ```
 
 ## Dataset Preparation / Model checkpoint
-- Download the VQACL partition of VQA v2 from [Google Drive](https://drive.google.com/drive/folders/1fzcTAhMHbaGeB0lU23ZUu2CRSrULV675?usp=sharing) and put it into datasets/nextqa/Partition_Q.
-- Download the VQACL partition of NExT-QA from [Google Drive](https://drive.google.com/drive/folders/15BYsnqZ2HXH_4-a1tb9feQZ3pkjQAL5p?usp=sharing) and put it into datasets/vqa/Partition_Q.
+- Download the DI partition of VQA v2 from [Google Drive](https://drive.google.com/drive/folders/1fzcTAhMHbaGeB0lU23ZUu2CRSrULV675?usp=sharing) and put it into datasets/nextqa/Partition_Q.
+- Download the DI partition of NExT-QA from [Google Drive](https://drive.google.com/drive/folders/15BYsnqZ2HXH_4-a1tb9feQZ3pkjQAL5p?usp=sharing) and put it into datasets/vqa/Partition_Q.
 - Download `datasets/COCO` and put the files under `vqa` in to `datasets/vqa` from [Google Drive](https://drive.google.com/drive/folders/1MBBhlkP83VMKS2Qe0SmFfzkHhMpIG5wf?usp=sharing)
 - Download video features of NExT-QA from [Goolge Drive](https://drive.google.com/drive/folders/15BYsnqZ2HXH_4-a1tb9feQZ3pkjQAL5p?usp=sharing) and put it into datatsets/nextqa/
-- Download VQA v2 DI model checkpoint from [Google Drive](https://drive.google.com/file/d/1cG2-l0cnu_PFWSTBcPaF7ZWVtW4pEuOb/view?usp=sharing) and put it in to snap/VQAv2_Our
-- Download NExT-QA DI model checkpoint from [Google Drive](https://drive.google.com/file/d/1EZOmfL0uVv0HF9Q5Gj-QlOUzOt5PMV8d/view?usp=sharing) and put it in to snap/nextqa/checkpoint/ours/DO_LAST.pth
+- Download our VQA v2 DI model checkpoint from [Google Drive](https://drive.google.com/file/d/1cG2-l0cnu_PFWSTBcPaF7ZWVtW4pEuOb/view?usp=sharing) and put it in to snap/VQAv2_Our
+- Download our NExT-QA DI model checkpoint from [Google Drive](https://drive.google.com/file/d/1EZOmfL0uVv0HF9Q5Gj-QlOUzOt5PMV8d/view?usp=sharing) and put it in to snap/nextqa/checkpoint/ours/DO_LAST.pth
 
 
 ## Execute the file
