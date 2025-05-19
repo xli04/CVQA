@@ -51,14 +51,14 @@ python download_backbones.py
     ...
 
 
-# Training and testing in the VQACL setting
+# Training logic
 ./MM-Prompt/
     src/
-        modeling_t5_our.py                                    <= main model classes
-        cvqa.py vqa_data_memory.py vqa_model.py ...           <= Testing in the VQACL setting
+        modeling.py                                           <= main model classes
+        cvqa.py vqa_data_memory.py vqa_model.py ...           <= training executor and dataloader
         param.py                                              <= (argparse) configuration
     snap/                                                     <= store weight checkpoints
-    scripts/                                                  <= bash scripts for evaluation
+    scripts/                                                  <= bash scripts
 ```
 
 ## Dataset Preparation / Model checkpoint
@@ -70,7 +70,7 @@ python download_backbones.py
 - Download NExT-QA DI model checkpoint from [Google Drive](https://drive.google.com/file/d/1EZOmfL0uVv0HF9Q5Gj-QlOUzOt5PMV8d/view?usp=sharing) and put it in to snap/nextqa/checkpoint/ours/DO_LAST.pth
 
 
-## VQACL tasks
+## Execute the file
 
 ```bash
 # Training VQA v2
