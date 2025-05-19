@@ -61,7 +61,7 @@ python download_backbones.py
     scripts/                                                  <= bash scripts
 ```
 
-## Dataset Preparation / Model checkpoint
+## Featurs/ Dataset Preparation
 - Download the DI partition of VQA v2 from [Google Drive](https://drive.google.com/drive/folders/1fzcTAhMHbaGeB0lU23ZUu2CRSrULV675?usp=sharing) and put it into datasets/nextqa/Partition_Q.
 - Download the DI partition of NExT-QA from [Google Drive](https://drive.google.com/drive/folders/15BYsnqZ2HXH_4-a1tb9feQZ3pkjQAL5p?usp=sharing) and put it into datasets/vqa/Partition_Q.
 - Download `datasets/COCO` and put the files under `vqa` in to `datasets/vqa` from [Google Drive](https://drive.google.com/drive/folders/1MBBhlkP83VMKS2Qe0SmFfzkHhMpIG5wf?usp=sharing) (**official link**)
