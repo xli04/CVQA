@@ -164,7 +164,7 @@ class VisualEmbeddingLXMERT(nn.Module):
 
 class VLCouplingFunction(nn.Module):
     """
-    Vision-Language coupling function inspired by MaPLe.
+    Vision-Language coupling function
     
     Creates explicit conditioning between vision and language prompts
     to enhance cross-modal alignment. Uses linear projections with near-identity
@@ -242,7 +242,7 @@ class VLCouplingFunction(nn.Module):
 
 class DecomposedPromptPool(nn.Module):
     """
-    Decomposed prompt representation inspired by CODA-Prompt.
+    Decomposed prompt representation.
     
     Maintains a pool of prompt components that can be selected and
     combined based on the input query. This approach allows for more
@@ -548,9 +548,6 @@ class SingleHierarchicalRecovery(nn.Module):
 #####################################################################
 
 class PromptFusion(nn.Module):
-    """
-    Enhanced prompt fusion with MaPLe-style coupling and CODA-style weighting.
-    """
     def __init__(self, d_model, nheads, lambda_reg=0.2):
         super().__init__()
         # Cross-attention modules for different prompt types
@@ -720,9 +717,6 @@ def random_mask_shared(prompts_Q, prompts_V, mask_ratio=0.05, mask_mode="zeros")
 #####################################################################
 
 class EnhancedJointEncoder(T5Stack):
-    """
-    Enhanced Joint Encoder with insights from CODA-Prompt and MaPLe.
-    """
     def __init__(self, config, embed_tokens=None):
         super(T5Stack, self).__init__(config)
         self.config = config
@@ -752,7 +746,7 @@ class EnhancedJointEncoder(T5Stack):
         
         print("========== Enhanced ARMOR Joint Encoder ========== ")
 
-        # 1. Decomposed Prompt Pools (CODA-inspired)
+        # 1. Decomposed Prompt Pools
         self.GQ_pool = DecomposedPromptPool(num_components=40, d_model=config.d_model, pool_name="GQ")
         self.EQ_pool = DecomposedPromptPool(num_components=60, d_model=config.d_model, pool_name="EQ") 
         self.GV_pool = DecomposedPromptPool(num_components=80, d_model=config.d_model, pool_name="GV")
@@ -960,7 +954,7 @@ class EnhancedJointEncoder(T5Stack):
         Q_feature = hidden_states[:, :L, :]
         V_feature = hidden_states[:, L:L+V_L, :]
         
-        # Apply cross-modal attention (MaPLe-inspired)
+        # Apply cross-modal attention
         Q_query, _ = self.q_to_v_attention(Q_feature, V_feature, V_feature)
         V_query, _ = self.v_to_q_attention(V_feature, Q_feature, Q_feature)
         

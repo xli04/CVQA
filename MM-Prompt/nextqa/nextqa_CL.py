@@ -258,7 +258,7 @@ class Trainer(TrainerBase):
             )
             self.test_loader_dict_all[task] = test_loader
 
-            if task_idx != 0:
+            if task_idx != 0 and len(All_examplar) != 0:
                 memory_loader = get_loader_memory(
                     args,
                     All_examplar,
