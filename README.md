@@ -2,7 +2,7 @@
 
 ## Introduction
 
-### 1. Motivation and VQACL Setting
+### 1. Motivation
 Most prompt-based CVQA methods adopt a cross-modal prompt isolation approach, con
 structing and utilizing visual and textual prompts independently without complementary knowledge
 understanding. Injecting such modality-isolated prompts amplifies the existing imbalance by providing the model with additional information from its already-preferred modality, diminishing the ability to integrate cross-modal representations. As a result, performance degrades as the model increasingly relies on one modality.
