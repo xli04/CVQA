@@ -62,7 +62,7 @@ python download_backbones.py
 ```
 
 ## Featurs/ Dataset Preparation
-- Due to the size limitation of the NeurIPS submission, the full task partition for VQA v2 is included in the source code. You can obtain it by first downloading the original JSON file from [Google Drive](https://drive.google.com/file/d/11gx7AxyeMP1KVuzHErIfNKCLeBWGq3pE/view) [1]. Then modify the file path in rearrange_vqa.py as needed and execute the script. Lastly, move the rearranged files into the datasets/nextqa/Partition_Q directory.
+-  You can obtain the partition by first downloading the original JSON file from [Google Drive](https://drive.google.com/file/d/11gx7AxyeMP1KVuzHErIfNKCLeBWGq3pE/view) [1]. Then modify the file path in rearrange_vqa.py as needed and execute the script. Lastly, move the rearranged files into the datasets/nextqa/Partition_Q directory.
 - Download `datasets/COCO` and put the files under `vqa` in to `datasets/vqa` from [Google Drive](https://drive.google.com/drive/folders/1MBBhlkP83VMKS2Qe0SmFfzkHhMpIG5wf?usp=sharing) (**official link**)
 - Download video features of NExT-QA from [Goolge Drive](https://drive.google.com/file/d/1rS5X_t_VSDF4uP3HL1gPQ0ZgWIEuglgk/view)(**official link**) duplicate the app_mot_val and rename it as app_mot_test, put the folder into datatsets/nextqa/
 - Download our VQA v2 DI model checkpoint from [Google Drive](https://drive.google.com/file/d/1cG2-l0cnu_PFWSTBcPaF7ZWVtW4pEuOb/view?usp=sharing) and put it in to snap/VQAv2_Our
