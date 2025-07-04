@@ -226,12 +226,6 @@ def parse_args(parse=True, **optional_kwargs):
 
     parser.add_argument("--freeze", action='store_true', default=True, help="Freeze backbone parameters")
 
-    # Cross-modal prompt parameters
-    parser.add_argument("--lambda_Q", type=float, default=0.01, help="Question prompt loss weight")
-    parser.add_argument("--lambda_V", type=float, default=0.1, help="Visual prompt loss weight")
-    parser.add_argument("--lambda_Q_new", type=float, default=0, help="New question prompt loss weight")
-    parser.add_argument("--lambda_V_new", type=float, default=0, help="New visual prompt loss weight")
-
     parser.add_argument("--comp_cate", type=str, default='G3', help="Composition category for testing")
     parser.add_argument("--ewc_loss_weight", type=float, default=100.0, help="EWC loss weight for regularization")
     parser.add_argument("--lambda_neighbor", type=float, default=10, help="Neighbor consistency loss weight")

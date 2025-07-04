@@ -552,18 +552,6 @@ class Trainer(TrainerBase):
                 results = self.model.train_step(batch, task_idx, self.args.proto_alpha, self.args.proto_beta, each_memory, self.task_total_num)
     
         loss = results['loss']
-        lambda_Q = self.args.lambda_Q
-        lambda_V = self.args.lambda_V
-        lambda_Q_new = self.args.lambda_Q_new
-        lambda_V_new = self.args.lambda_V_new
-    
-        # Apply additional loss terms if available (memory loss, new memory loss)
-        if 'loss_memory' in results:
-            (loss_memory_Q, loss_memory_V) = results['loss_memory']
-            loss = loss + lambda_Q * loss_memory_Q + lambda_V * loss_memory_V
-        if 'loss_memory_new' in results:
-            (loss_memory_Q_new, loss_memory_V_new) = results['loss_memory_new']
-            loss = loss + lambda_Q_new * loss_memory_Q_new + lambda_V_new * loss_memory_V_new
     
         # Backward pass (with mixed precision if enabled)
         if self.args.fp16 and _use_native_amp:
